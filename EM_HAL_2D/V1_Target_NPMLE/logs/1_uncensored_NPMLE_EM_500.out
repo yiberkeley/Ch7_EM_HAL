@@ -1,0 +1,407 @@
+Running initial CV to select lambda...
+Best lambda from CV: 25
+  Lambda = 2: Mean validation log–prob = 9.4024
+  Lambda = 5: Mean validation log–prob = 22.5122
+  Lambda = 10: Mean validation log–prob = 37.4113
+  Lambda = 15: Mean validation log–prob = 49.6231
+  Lambda = 20: Mean validation log–prob = 55.9939
+  Lambda = 25: Mean validation log–prob = 60.6842
+  Lambda = 40: Mean validation log–prob = 58.9349
+  Lambda = 60: Mean validation log–prob = 59.2515
+  Lambda = 80: Mean validation log–prob = 56.9118
+  Lambda = 100: Mean validation log–prob = 58.1130
+  Lambda = 120: Mean validation log–prob = 56.8365
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+  Observed log–likelihood: 195.9468
+EM iteration 2
+  Observed log–likelihood: 195.9468
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [195.94675312179203, 195.94675312179203]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.3405
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: 245.5187
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.3777
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: 245.5187
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 40
+  Lambda = 2: Mean validation log–prob = 8.5968
+  Lambda = 5: Mean validation log–prob = 19.1669
+  Lambda = 10: Mean validation log–prob = 32.2653
+  Lambda = 15: Mean validation log–prob = 40.8707
+  Lambda = 20: Mean validation log–prob = 45.2640
+  Lambda = 25: Mean validation log–prob = 45.3000
+  Lambda = 40: Mean validation log–prob = 49.5295
+  Lambda = 60: Mean validation log–prob = 47.6209
+  Lambda = 80: Mean validation log–prob = 48.6590
+  Lambda = 100: Mean validation log–prob = 48.3848
+  Lambda = 120: Mean validation log–prob = 47.5534
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+  Observed log–likelihood: 175.6428
+EM iteration 2
+  Observed log–likelihood: 175.6428
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [175.64283483204102, 175.64283483204102]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.4432
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: 216.2475
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.5002
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: 216.2475
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 40
+  Lambda = 2: Mean validation log–prob = 8.5735
+  Lambda = 5: Mean validation log–prob = 19.9332
+  Lambda = 10: Mean validation log–prob = 33.2371
+  Lambda = 15: Mean validation log–prob = 40.5299
+  Lambda = 20: Mean validation log–prob = 45.0897
+  Lambda = 25: Mean validation log–prob = 46.3854
+  Lambda = 40: Mean validation log–prob = 46.9371
+  Lambda = 60: Mean validation log–prob = 45.2396
+  Lambda = 80: Mean validation log–prob = 46.3495
+  Lambda = 100: Mean validation log–prob = 46.4042
+  Lambda = 120: Mean validation log–prob = 46.1393
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+  Observed log–likelihood: 169.1962
+EM iteration 2
+  Observed log–likelihood: 169.1962
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [169.19619708939524, 169.19619708939524]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.4757
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: 213.7378
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.6023
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: 213.7378
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 40
+  Lambda = 2: Mean validation log–pIntermediate results saved after 10 rounds.
+Running initial CV to select lambda...
+Best lambda from CV: 25
+  Lambda = 2: Mean validation log–prob = 9.2547
+  Lambda = 5: Mean validation log–prob = 22.0280
+  Lambda = 10: Mean validation log–prob = 37.7684
+  Lambda = 15: Mean validation log–prob = 47.1433
+  Lambda = 20: Mean validation log–prob = 54.4029
+  Lambda = 25: Mean validation log–prob = 59.3992
+  Lambda = 40: Mean validation log–prob = 58.4484
+  Lambda = 60: Mean validation log–prob = 58.5783
+  Lambda = 80: Mean validation log–prob = 55.9481
+  Lambda = 100: Mean validation log–prob = 58.3116
+  Lambda = 120: Mean validation log–prob = 54.7523
+WARNING - large complementary slackness residual: 0.001418
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+  Observed log–likelihood: 200.5159
+EM iteration 2
+  Observed log–likelihood: 200.5159
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [200.51586847983185, 200.51586847983185]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.5129
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002398
+  Observed log–likelihood: 236.4127
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.3333
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002398
+  Observed log–likelihood: 236.4127
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 40
+  Lambda = 2: Mean validation log–prob = 10.0347
+  Lambda = 5: Mean validation log–prob = 23.4467
+  Lambda = 10: Mean validation log–prob = 39.5105
+  Lambda = 15: Mean validation log–prob = 52.9018
+  Lambda = 20: Mean validation log–prob = 59.0494
+  Lambda = 25: Mean validation log–prob = 63.0941
+  Lambda = 40: Mean validation log–prob = 63.8923
+  Lambda = 60: Mean validation log–prob = 62.9029
+  Lambda = 80: Mean validation log–prob = 60.7928
+  Lambda = 100: Mean validation log–prob = 62.2122
+  Lambda = 120: Mean validation log–prob = 62.0406
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+WARNING - large complementary slackness residual: 0.003307
+  Observed log–likelihood: 215.7364
+EM iteration 2
+WARNING - large complementary slackness residual: 0.003307
+  Observed log–likelihood: 215.7364
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [215.73638255588418, 215.73638255588418]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.4613
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: 256.8636
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.4219
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: 256.8636
+Convergence achieved in targeting EM.
+Intermediate results saved after 20 rounds.
+Running initial CV to select lambda...
+Best lambda from CV: 25
+  Lambda = 2: Mean validation log–prob = 9.9544
+  Lambda = 5: Mean validation log–prob = 21.3121
+  Lambda = 10: Mean validation log–prob = 37.9301
+  Lambda = 15: Mean validation log–prob = 48.0056
+  Lambda = 20: Mean validation log–prob = 53.3615
+  Lambda = 25: Mean validation log–prob = 55.7798
+  Lambda = 40: Mean validation log–prob = 55.4689
+  Lambda = 60: Mean validation log–prob = 54.7771
+  Lambda = 80: Mean validation log–prob = 55.1018
+  Lambda = 100: Mean validation log–prob = 55.6214
+  Lambda = 120: Mean validation log–prob = 53.0690
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+  Observed log–likelihood: 189.6473
+EM iteration 2
+  Observed log–likelihood: 189.6473
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [189.64733974606062, 189.64733974606062]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.4197
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: 219.9857
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.4374
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: 219.9857
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 25
+  Lambda = 2: Mean validation log–prob = 11.7792
+  Lambda = 5: Mean validation log–prob = 23.3942
+  Lambda = 10: Mean validation log–prob = 39.0553
+  Lambda = 15: Mean validation log–prob = 49.5893
+  Lambda = 20: Mean validation log–prob = 55.1750
+  Lambda = 25: Mean validation log–prob = 59.3495
+  Lambda = 40: Mean validation log–prob = 59.1903
+  Lambda = 60: Mean validation log–prob = 57.9766
+  Lambda = 80: Mean validation log–prob = 57.4249
+  Lambda = 100: Mean validation log–prob = 57.0604
+  Lambda = 120: Mean validation log–prob = 55.7834
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+  Observed log–likelihood: 194.9336
+EM iteration 2
+  Observed log–likelihood: 194.9336
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [194.93358368585479, 194.93358368585479]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.4942
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: 233.7162
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.1914
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: 233.7162
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 25
+  Lambda = 2: Mean validation log–prob = 9.6061
+  Lambda = 5: Mean validation log–prob = 20.8705
+  Lambda = 10: Mean validation log–prob = 33.9951
+  Lambda = 15: Mean validation log–prob = 42.1807
+  Lambda = 20: Mean validation log–prob = 47.4107
+  Lambda = 25: Mean validation log–prob = 50.0817
+  Lambda = 40: Mean validation log–prob = 49.1392
+  Lambda = 60: Mean validation log–prob = 46.3731
+  Lambda = 80: Mean validation log–prob = 49.5375
+  Lambda = 100: Mean validation log–prob = 48.2781
+  Lambda = 120: Mean validation log–prob = 48.5316
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+  Observed log–likelihood: 169.9048
+EM iteration 2
+  Observed log–likelihood: 169.9048
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [169.9047987246407, 169.9047987246407]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.3454
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001387
+  Observed log–likelihood: 205.5775
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.2221
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001387
+  Observed log–likelihood: 205.5775
+Convergence achieved in targeting EM.
+Intermediate results saved after 30 rounds.
+Running initial CV to select lambda...
+Best lambda from CV: 25
+  Lambda = 2: Mean validation log–prob = 8.8712
+  Lambda = 5: Mean validation log–prob = 19.8893
+  Lambda = 10: Mean validation log–prob = 33.6070
+  Lambda = 15: Mean validation log–prob = 45.6092
+  Lambda = 20: Mean validation log–prob = 51.3752
+  Lambda = 25: Mean validation log–prob = 53.2985
+  Lambda = 40: Mean validation log–prob = 52.8036
+  Lambda = 60: Mean validation log–prob = 49.5372
+  Lambda = 80: Mean validation log–prob = 53.1770
+  Lambda = 100: Mean validation log–prob = 49.5210
+  Lambda = 120: Mean validation log–prob = 51.6484
+WARNING - large complementary slackness residual: 0.001614
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+WARNING - large complementary slackness residual: 0.002249
+  Observed log–likelihood: 179.7242
+EM iteration 2
+WARNING - large complementary slackness residual: 0.002249
+  Observed log–likelihood: 179.7242
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [179.72415317549303, 179.72415317549303]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.4641
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002618
+  Observed log–likelihood: 229.7524
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.3808
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002618
+  Observed log–likelihood: 229.7524
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 40
+  Lambda = 2: Mean validation log–prob = 10.3117
+  Lambda = 5: Mean validation log–prob = 21.9079
+  Lambda = 10: Mean validation log–prob = 37.4804
+  Lambda = 15: Mean validation log–prob = 48.9855
+  Lambda = 20: Mean validation log–prob = 55.3813
+  Lambda = 25: Mean validation log–prob = 59.7239
+  Lambda = 40: Mean validation log–prob = 60.4255
+  Lambda = 60: Mean validation log–prob = 55.1577
+  Lambda = 80: Mean validation log–prob = 59.5015
+  Lambda = 100: Mean validation log–prob = 58.8106
+  Lambda = 120: Mean validation log–prob = 55.2285
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+  Observed log–likelihood: 201.4815
+EM iteration 2
+  Observed log–likelihood: 201.4815
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [201.48145514702446, 201.48145514702446]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.2044
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: 246.1957
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.2317
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: 246.1957
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 40
+  Lambda = 2: Mean validation log–prob = 9.2485
+  Lambda = 5: Mean validation log–prob = 20.8656
+  Lambda = 10: Mean validation log–prob = 35.9617
+  Lambda = 15: Mean validation log–prob = 46.5312
+  Lambda = 20: Mean validation log–prob = 51.3899
+  Lambda = 25: Mean validation log–prob = 53.0958
+  Lambda = 40: Mean validation log–prob = 53.9458
+  Lambda = 60: Mean validation log–prob = 49.8537
+  Lambda = 80: Mean validation log–prob = 51.9093
+  Lambda = 100: Mean validation log–prob = 50.1345
+  Lambda = 120: Mean validation log–prob = 52.7351
+WARNING - large complementary slackness residual: 0.001885
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+WARNING - large complementary slackness residual: 0.002649
+  Observed log–likelihood: 184.1579
+EM iteration 2
+WARNING - large complementary slackness residual: 0.002649
+  Observed log–likelihood: 184.1579
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [184.1578918266744, 184.1578918266744]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.4741
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: 214.2133
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.5429
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: 214.2133
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 40
+  Lambda = 2: Mean validation log–prob = 10.2805
+  Lambda = 5: Mean validation log–prob = 20.7952
+  Lambda = 10: Mean validation log–prob = 34.5976
+  Lambda = 15: Mean validation log–prob = 45.0332
+  Lambda = 20: Mean validation log–prob = 50.0460
+  Lambda = 25: Mean validation log–prob = 51.9723
+  Lambda = 40: Mean validation log–prob = 57.7755
+  Lambda = 60: Mean validation log–prob = 56.2696
+  Lambda = 80: Mean validation log–prob = 54.6216
+  Lambda = 100: Mean validation log–prob = 54.6125
+  Lambda = 120: Mean validation loIntermediate results saved after 40 rounds.

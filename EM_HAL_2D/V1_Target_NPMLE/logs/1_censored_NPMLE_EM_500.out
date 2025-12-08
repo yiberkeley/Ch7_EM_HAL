@@ -1,0 +1,1938 @@
+Running initial CV to select lambda...
+Best lambda from CV: 25
+  Lambda = 5: Mean validation log–prob = -62.8666
+  Lambda = 10: Mean validation log–prob = -53.2980
+  Lambda = 15: Mean validation log–prob = -46.1777
+  Lambda = 20: Mean validation log–prob = -42.4420
+  Lambda = 25: Mean validation log–prob = -39.9824
+  Lambda = 40: Mean validation log–prob = -40.5874
+  Lambda = 60: Mean validation log–prob = -40.0004
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+  Observed log–likelihood: -80.8582
+EM iteration 2
+  Observed log–likelihood: -78.1415
+EM iteration 3
+  Observed log–likelihood: -77.5550
+EM iteration 4
+  Observed log–likelihood: -77.1808
+EM iteration 5
+  Observed log–likelihood: -77.0932
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [-80.85817927106558, -78.14152965961124, -77.55499921786205, -77.18080329308845, -77.0932394388554]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.5176
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -62.1147
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.1979
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -55.4637
+Targeting EM iteration 3
+Targeting M-step design matrix time (sec): 0.4016
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -52.1741
+Targeting EM iteration 4
+Targeting M-step design matrix time (sec): 0.2935
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001900
+  Observed log–likelihood: -50.9866
+Targeting EM iteration 5
+Targeting M-step design matrix time (sec): 0.3370
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001906
+  Observed log–likelihood: -49.8170
+Targeting EM iteration 6
+Targeting M-step design matrix time (sec): 0.6421
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001717
+  Observed log–likelihood: -49.1146
+Targeting EM iteration 7
+Targeting M-step design matrix time (sec): 0.5454
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001824
+  Observed log–likelihood: -48.3868
+Targeting EM iteration 8
+Targeting M-step design matrix time (sec): 0.4563
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002518
+  Observed log–likelihood: -47.7179
+Targeting EM iteration 9
+Targeting M-step design matrix time (sec): 0.3284
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002623
+  Observed log–likelihood: -47.4491
+Targeting EM iteration 10
+Targeting M-step design matrix time (sec): 0.3850
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -47.3758
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 25
+  Lambda = 5: Mean validation log–prob = -64.1186
+  Lambda = 10: Mean validation log–prob = -55.4759
+  Lambda = 15: Mean validation log–prob = -49.7359
+  Lambda = 20: Mean validation log–prob = -47.4435
+  Lambda = 25: Mean validation log–prob = -45.1548
+  Lambda = 40: Mean validation log–prob = -46.1921
+  Lambda = 60: Mean validation log–prob = -45.7277
+WARNING - large complementary slackness residual: 0.002460
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+WARNING - large complementary slackness residual: 0.003100
+  Observed log–likelihood: -103.4170
+EM iteration 2
+WARNING - large complementary slackness residual: 0.003127
+  Observed log–likelihood: -101.1473
+EM iteration 3
+WARNING - large complementary slackness residual: 0.003260
+  Observed log–likelihood: -100.5965
+EM iteration 4
+WARNING - large complementary slackness residual: 0.003099
+  Observed log–likelihood: -100.2897
+EM iteration 5
+  Observed log–likelihood: -100.2619
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [-103.41704833334721, -101.14732831633188, -100.59648838816138, -100.28972142901588, -100.26190186404949]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.7348
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -81.8212
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.4679
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -75.1677
+Targeting EM iteration 3
+Targeting M-step design matrix time (sec): 0.2690
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002301
+  Observed log–likelihood: -69.9699
+Targeting EM iteration 4
+Targeting M-step design matrix time (sec): 0.6828
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -67.2231
+Targeting EM iteration 5
+Targeting M-step design matrix time (sec): 0.4083
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001319
+  Observed log–likelihood: -65.1106
+Targeting EM iteration 6
+Targeting M-step design matrix time (sec): 0.5799
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002680
+  Observed log–likelihood: -64.0265
+Targeting EM iteration 7
+Targeting M-step design matrix time (sec): 0.4251
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.003026
+  Observed log–likelihood: -63.0854
+Targeting EM iteration 8
+Targeting M-step design matrix time (sec): 0.4048
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001443
+  Observed log–likelihood: -62.4515
+Targeting EM iteration 9
+Targeting M-step design matrix time (sec): 0.3194
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -62.2203
+Targeting EM iteration 10
+Targeting M-step design matrix time (sec): 0.2294
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002250
+  Observed log–likelihood: -62.0828
+Targeting EM iteration 11
+Targeting M-step design matrix time (sec): 0.2389
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001373
+  Observed log–likelihood: -61.7263
+Targeting EM iteration 12
+Targeting M-step design matrix time (sec): 0.4994
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001352
+  Observed log–likelihood: -61.5614
+Targeting EM iteration 13
+Targeting M-step design matrix time (sec): 0.3138
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001580
+  Observed log–likelihood: -61.4920
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+WARNING - large complementary slackness residual: 0.002319
+WARNING - large complementary slackness residual: 0.002345
+WARNING - large complementary slackness residual: 0.002165
+WARNING - large complementary slackness residual: 0.001951
+WARNING - large complementary slackness residual: 0.002049
+WARNING - large complementary slackness residual: 0.002051
+WARNING - large complementary slackness residual: 0.001866
+WARNING - large complementary slackness residual: 0.001831
+WARNING - large complementary slackness residual: 0.001825
+WARNING - large complementary slackness residual: 0.001665
+WARNING - large complementary slackness residual: 0.001717
+WARNING - large complementary slackness residual: 0.001666
+WARNING - large complementary slackness residual: 0.001679
+WARNING - large complementary slackness residual: 0.001537
+WARNING - large complementary slackness residual: 0.001674
+WARNING - large complementary slackness residual: 0.001706
+Best lambda from CV: 20
+  Lambda = 5: Mean validation log–prob = -66.0261
+  Lambda = 10: Mean validation log–prob = -59.2999
+  Lambda = 15: Mean validation log–prob = -55.9636
+  Lambda = 20: Mean validation log–prob = -53.3102
+  Lambda = 25: Mean validation log–prob = -54.5889
+  Lambda = 40: Mean validation log–prob = -56.8131
+  Lambda = 60: Mean validation log–prob = -55.0766
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+  Observed log–likelihood: -128.1668
+EM iteration 2
+  Observed log–likelihood: -123.5057
+EM iteration 3
+  Observed log–likelihood: -121.8359
+EM iteration 4
+  Observed log–likelihood: -120.9862
+EM iteration 5
+  Observed log–likelihood: -120.8908
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [-128.16679093946644, -123.5057302478398, -121.83591925512819, -120.98621078267648, -120.89080877301333]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.2681
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -109.1475
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.4687
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -103.2134
+Targeting EM iteration 3
+Targeting M-step design matrix time (sec): 0.4493
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -100.2954
+Targeting EM iteration 4
+Targeting M-step design matrix time (sec): 0.2628
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -98.3178
+Targeting EM iteration 5
+Targeting M-step design matrix time (sec): 0.4497
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -96.6224
+Targeting EM iteration 6
+Targeting M-step design matrix time (sec): 0.4205
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001432
+  Observed log–likelihood: -95.5198
+Targeting EM iteration 7
+Targeting M-step design matrix time (sec): 0.4287
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001332
+  Observed log–likelihood: -94.9965
+Targeting EM iteration 8
+Targeting M-step design matrix time (sec): 0.3023
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001416
+  Observed log–likelihood: -94.3870
+Targeting EM iteration 9
+Targeting M-step design matrix time (sec): 0.3480
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -94.1663
+Targeting EM iteration 10
+Targeting M-step design matrix time (sec): 0.3864
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -93.9344
+Targeting EM iteration 11
+Targeting M-step design matrix time (sec): 0.6457
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -93.8324
+Targeting EM iteration 12
+Targeting M-step design matrix time (sec): 0.6555
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -93.6237
+Targeting EM iteration 13
+Targeting M-step design matrix time (sec): 0.3671
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -93.3559
+Targeting EM iteration 14
+Targeting M-step design matrix time (sec): 0.5631
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -93.3871
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 40
+  Lambda = 5: Mean validation log–prob = -68.4568
+  Lambda = 10: Mean validation log–prob = -61.7436
+  Lambda = 15: Mean validation log–prob = -57.1151
+  Lambda = 20: Mean validation log–prob = -56.0553
+  Lambda = 25: Mean validation log–prob = -55.9175
+  Lambda = 40: Mean validation log–prob = -54.2921
+  Lambda = 60: Mean validation log–prob = -55.6121
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+  Observed log–likelihood: -127.3365
+EM iteration 2
+WARNING - large complementary slackness residual: 0.002566
+  Observed log–likelihood: -124.2880
+EM iteration 3
+WARNING - large complementary slackness residual: 0.002509
+  Observed log–likelihood: -122.7879
+EM iteration 4
+WARNING - large complementary slackness residual: 0.002470
+  Observed log–likelihood: -122.2160
+EM iteration 5
+WARNING - large complementary slackness residual: 0.002376
+  Observed log–likelihood: -121.7693
+EM iteration 6
+  Observed log–likelihood: -121.3769
+EM iteration 7
+  Observed log–likelihood: -121.2028
+EM iteration 8
+  Observed log–likelihood: -121.0545
+EM iteration 9
+WARNING - large complementary slackness residual: 0.002596
+  Observed log–likelihood: -120.9371
+EM iteration 10
+WARNING - large complementary slackness residual: 0.002443
+  Observed log–likelihood: -120.8588
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [-127.33646236660691, -124.28798840269404, -122.78793841195048, -122.21600034743108, -121.76925026176556, -121.37690035133511, -121.2027540899258, -121.05448366506344, -120.93712059799789, -120.85877790944355]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.2587
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -109.3972
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.6989
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -104.4655
+Targeting EM iteration 3
+Targeting M-step design matrix time (sec): 0.3894
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -101.3724
+Targeting EM iteration 4
+Targeting M-step design matrix time (sec): 0.6285
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -100.1905
+Targeting EM iteration 5
+Targeting M-step design matrix time (sec): 0.6416
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -99.1517
+Targeting EM iteration 6
+Targeting M-step design matrix time (sec): 0.3695
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002266
+  Observed log–likelihood: -98.2171
+Targeting EM iteration 7
+Targeting M-step design matrix time (sec): 0.7520
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001581
+  Observed log–likelihood: -97.7036
+Targeting EM iteration 8
+Targeting M-step design matrix time (sec): 0.3864
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002355
+  Observed log–likelihood: -97.4708
+Targeting EM iteration 9
+Targeting M-step design matrix time (sec): 0.2237
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -96.9398
+Targeting EM iteration 10
+Targeting M-step design matrix time (sec): 0.3872
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001447
+  Observed log–likelihood: -96.8765
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 25
+  Lambda = 5: Mean validation log–prob = -67.3426
+  Lambda = 10: Mean validation log–prob = -59.0123
+  Lambda = 15: Mean validation log–prob = -55.6259
+  Lambda = 20: Mean validation log–prob = -52.1448
+  Lambda = 25: Mean validation log–prob = -49.9911
+  Lambda = 40: Mean validation log–prob = -51.0981
+  Lambda = 60: Mean validation log–prob = -51.9335
+WARNING - large complementary slackness residual: 0.001914
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+  Observed log–likelihood: -118.2705
+EM iteration 2
+  Observed log–likelihood: -115.3860
+EM iteration 3
+  Observed log–likelihood: -114.4089
+EM iteration 4
+  Observed log–likelihood: -113.9401
+EM iteration 5
+  Observed log–likelihood: -113.8019
+EM iteration 6
+  Observed log–likelihood: -113.5580
+EM iteration 7
+  Observed log–likelihood: -113.5825
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [-118.27045427696396, -115.38598059362926, -114.40894111416212, -113.94005079570218, -113.80187968786679, -113.55801234130402, -113.58252321461164]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.3885
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -94.9163
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.2512
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -87.7171
+Targeting EM iteration 3
+Targeting M-step design matrix time (sec): 0.4422
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -84.2218
+Targeting EM iteration 4
+Targeting M-step design matrix time (sec): 0.5258
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -82.0104
+Targeting EM iteration 5
+Targeting M-step design matrix time (sec): 0.3092
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -81.0414
+Targeting EM iteration 6
+Targeting M-step design matrix time (sec): 0.2795
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -80.1722
+Targeting EM iteration 7
+Targeting M-step design matrix time (sec): 0.2958
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -79.1851
+Targeting EM iteration 8
+Targeting M-step design matrix time (sec): 0.7790
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.003007
+  Observed log–likelihood: -78.5829
+Targeting EM iteration 9
+Targeting M-step design matrix time (sec): 0.4403
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001279
+  Observed log–likelihood: -78.4761
+Targeting EM iteration 10
+Targeting M-step design matrix time (sec): 0.3939
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001583
+  Observed log–likelihood: -78.1672
+Targeting EM iteration 11
+Targeting M-step design matrix time (sec): 0.3844
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001651
+  Observed log–likelihood: -77.9638
+Targeting EM iteration 12
+Targeting M-step design matrix time (sec): 0.3026
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001638
+  Observed log–likelihood: -78.1026
+Targeting EM iteration 13
+Targeting M-step design matrix time (sec): 0.4530
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -78.1009
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 60
+  Lambda = 5: Mean validation log–prob = -69.7215
+  Lambda = 10: Mean validation log–prob = -64.8829
+  Lambda = 15: Mean validation log–prob = -58.3854
+  Lambda = 20: Mean validation log–prob = -57.0401
+  Lambda = 25: Mean validation log–prob = -57.4217
+  Lambda = 40: Mean validation log–prob = -57.5066
+  Lambda = 60: Mean validation log–prob = -55.0340
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+  Observed log–likelihood: -126.9024
+EM iteration 2
+WARNING - large complementary slackness residual: 0.003127
+  Observed log–likelihood: -125.1897
+EM iteration 3
+  Observed log–likelihood: -124.2891
+EM iteration 4
+  Observed log–likelihood: -123.8164
+EM iteration 5
+  Observed log–likelihood: -123.6571
+EM iteration 6
+  Observed log–likelihood: -123.6469
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [-126.90242094031692, -125.1896781971488, -124.28914161674767, -123.81642320931151, -123.65709175458558, -123.64694259116976]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.3702
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -110.1333
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.2730
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -104.8367
+Targeting EM iteration 3
+Targeting M-step design matrix time (sec): 0.3591
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001826
+  Observed log–likelihood: -101.9463
+Targeting EM iteration 4
+Targeting M-step design matrix time (sec): 0.4307
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -100.5910
+Targeting EM iteration 5
+Targeting M-step design matrix time (sec): 0.3074
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -99.0419
+Targeting EM iteration 6
+Targeting M-step design matrix time (sec): 0.2405
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -97.9941
+Targeting EM iteration 7
+Targeting M-step design matrix time (sec): 0.9500
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -97.3362
+Targeting EM iteration 8
+Targeting M-step design matrix time (sec): 0.2094
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -96.8944
+Targeting EM iteration 9
+Targeting M-step design matrix time (sec): 0.3520
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -96.5481
+Targeting EM iteration 10
+Targeting M-step design matrix time (sec): 0.2000
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -96.1358
+Targeting EM iteration 11
+Targeting M-step design matrix time (sec): 0.3911
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -95.5001
+Targeting EM iteration 12
+Targeting M-step design matrix time (sec): 0.3972
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -94.9598
+Targeting EM iteration 13
+Targeting M-step design matrix time (sec): 0.2637
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -94.8624
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 40
+  Lambda = 5: Mean validation log–prob = -64.2248
+  Lambda = 10: Mean validation log–prob = -55.2948
+  Lambda = 15: Mean validation log–prob = -51.2320
+  Lambda = 20: Mean validation log–prob = -48.7392
+  Lambda = 25: Mean validation log–prob = -50.0155
+  Lambda = 40: Mean validation log–prob = -48.4139
+  Lambda = 60: Mean validation log–prob = -48.9403
+WARNING - large complementary slackness residual: 0.001020
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+WARNING - large complementary slackness residual: 0.003647
+  Observed log–likelihood: -111.7937
+EM iteration 2
+  Observed log–likelihood: -108.6548
+EM iteration 3
+  Observed log–likelihood: -106.9773
+EM iteration 4
+WARNING - large complementary slackness residual: 0.003686
+  Observed log–likelihood: -106.2336
+EM iteration 5
+WARNING - large complementary slackness residual: 0.003465
+  Observed log–likelihood: -105.8429
+EM iteration 6
+WARNING - large complementary slackness residual: 0.002681
+  Observed log–likelihood: -105.6466
+EM iteration 7
+WARNING - large complementary slackness residual: 0.003434
+  Observed log–likelihood: -105.5692
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [-111.79373754281404, -108.6548412803177, -106.97729559165113, -106.23357843784049, -105.8429338836264, -105.64663698444174, -105.56923194623087]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.4693
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -89.2471
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.4621
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -83.0211
+Targeting EM iteration 3
+Targeting M-step design matrix time (sec): 0.3211
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001693
+  Observed log–likelihood: -79.6086
+Targeting EM iteration 4
+Targeting M-step design matrix time (sec): 0.2919
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -77.0762
+Targeting EM iteration 5
+Targeting M-step design matrix time (sec): 0.3544
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -75.4084
+Targeting EM iteration 6
+Targeting M-step design matrix time (sec): 0.5044
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001995
+  Observed log–likelihood: -74.2710
+Targeting EM iteration 7
+Targeting M-step design matrix time (sec): 0.1913
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001430
+  Observed log–likelihood: -73.3015
+Targeting EM iteration 8
+Targeting M-step design matrix time (sec): 0.5143
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002231
+  Observed log–likelihood: -72.8219
+Targeting EM iteration 9
+Targeting M-step design matrix time (sec): 0.5330
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002243
+  Observed log–likelihood: -72.0517
+Targeting EM iteration 10
+Targeting M-step design matrix time (sec): 0.2070
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001755
+  Observed log–likelihood: -71.2816
+Targeting EM iteration 11
+Targeting M-step design matrix time (sec): 0.2583
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001373
+  Observed log–likelihood: -70.6226
+Targeting EM iteration 12
+Targeting M-step design matrix time (sec): 0.2607
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002079
+  Observed log–likelihood: -70.2915
+Targeting EM iteration 13
+Targeting M-step design matrix time (sec): 0.3723
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002087
+  Observed log–likelihood: -69.5541
+Targeting EM iteration 14
+Targeting M-step design matrix time (sec): 0.7111
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002325
+  Observed log–likelihood: -69.4958
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 60
+  Lambda = 5: Mean validation log–prob = -64.8519
+  Lambda = 10: Mean validation log–prob = -56.9962
+  Lambda = 15: Mean validation log–prob = -52.3731
+  Lambda = 20: Mean validation log–prob = -51.9927
+  Lambda = 25: Mean validation log–prob = -50.9050
+  Lambda = 40: Mean validation log–prob = -51.7038
+  Lambda = 60: Mean validation log–prob = -49.6225
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+WARNING - large complementary slackness residual: 0.003668
+  Observed log–likelihood: -111.2915
+EM iteration 2
+WARNING - large complementary slackness residual: 0.003852
+  Observed log–likelihood: -108.6277
+EM iteration 3
+WARNING - large complementary slackness residual: 0.003702
+  Observed log–likelihood: -107.7450
+EM iteration 4
+WARNING - large complementary slackness residual: 0.003520
+  Observed log–likelihood: -107.3686
+EM iteration 5
+WARNING - large complementary slackness residual: 0.003793
+  Observed log–likelihood: -107.2391
+EM iteration 6
+WARNING - large complementary slackness residual: 0.003871
+  Observed log–likelihood: -107.1180
+EM iteration 7
+WARNING - large complementary slackness residual: 0.003721
+  Observed log–likelihood: -107.1321
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [-111.29151963263293, -108.62765367150317, -107.74497153522483, -107.3686008448269, -107.23910967038259, -107.11803853920199, -107.13209589153108]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.4016
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -86.4876
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.3233
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -79.8385
+Targeting EM iteration 3
+Targeting M-step design matrix time (sec): 0.5134
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002154
+  Observed log–likelihood: -76.5648
+Targeting EM iteration 4
+Targeting M-step design matrix time (sec): 0.2117
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002278
+  Observed log–likelihood: -74.4012
+Targeting EM iteration 5
+Targeting M-step design matrix time (sec): 0.3452
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.003122
+  Observed log–likelihood: -73.2486
+Targeting EM iteration 6
+Targeting M-step design matrix time (sec): 0.3205
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002200
+  Observed log–likelihood: -72.2040
+Targeting EM iteration 7
+Targeting M-step design matrix time (sec): 0.5657
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002239
+  Observed log–likelihood: -71.4109
+Targeting EM iteration 8
+Targeting M-step design matrix time (sec): 0.3453
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.003695
+  Observed log–likelihood: -70.9308
+Targeting EM iteration 9
+Targeting M-step design matrix time (sec): 0.5642
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.004445
+  Observed log–likelihood: -70.5475
+Targeting EM iteration 10
+Targeting M-step design matrix time (sec): 0.2121
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002779
+  Observed log–likelihood: -70.5111
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 60
+  Lambda = 5: Mean validation log–prob = -65.9767
+  Lambda = 10: Mean validation log–prob = -56.9652
+  Lambda = 15: Mean validation log–prob = -51.0497
+  Lambda = 20: Mean validation log–prob = -49.1466
+  Lambda = 25: Mean validation log–prob = -48.3805
+  Lambda = 40: Mean validation log–prob = -50.5569
+  Lambda = 60: Mean validation log–prob = -47.5875
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+  Observed log–likelihood: -108.8166
+EM iteration 2
+  Observed log–likelihood: -106.0425
+EM iteration 3
+  Observed log–likelihood: -104.5072
+EM iteration 4
+  Observed log–likelihood: -104.3155
+EM iteration 5
+  Observed log–likelihood: -104.0713
+EM iteration 6
+  Observed log–likelihood: -103.7069
+EM iteration 7
+  Observed log–likelihood: -103.3647
+EM iteration 8
+  Observed log–likelihood: -103.1672
+EM iteration 9
+  Observed log–likelihood: -102.8943
+EM iteration 10
+  Observed log–likelihood: -102.7719
+EM iteration 11
+  Observed log–likelihood: -102.7201
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [-108.8166296214527, -106.04251638013821, -104.50716303749111, -104.31548721955501, -104.07126712894507, -103.70694539924233, -103.36474181095979, -103.16720278527785, -102.89429883513502, -102.77190892301134, -102.72007032266146]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.3512
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -86.7674
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.3171
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -81.3985
+Targeting EM iteration 3
+Targeting M-step design matrix time (sec): 0.5396
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -77.6114
+Targeting EM iteration 4
+Targeting M-step design matrix time (sec): 0.3210
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -75.6575
+Targeting EM iteration 5
+Targeting M-step design matrix time (sec): 0.6134
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -73.9787
+Targeting EM iteration 6
+Targeting M-step design matrix time (sec): 0.6255
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -72.5393
+Targeting EM iteration 7
+Targeting M-step design matrix time (sec): 0.7057
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002825
+  Observed log–likelihood: -71.5329
+Targeting EM iteration 8
+Targeting M-step design matrix time (sec): 0.4153
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002087
+  Observed log–likelihood: -70.9703
+Targeting EM iteration 9
+Targeting M-step design matrix time (sec): 0.3419
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -70.5970
+Targeting EM iteration 10
+Targeting M-step design matrix time (sec): 0.3279
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001698
+  Observed log–likelihood: -70.2001
+Targeting EM iteration 11
+Targeting M-step design matrix time (sec): 0.1924
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001814
+  Observed log–likelihood: -70.0130
+Targeting EM iteration 12
+Targeting M-step design matrix time (sec): 0.4403
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001702
+  Observed log–likelihood: -69.8699
+Targeting EM iteration 13
+Targeting M-step design matrix time (sec): 0.2542
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001881
+  Observed log–likelihood: -69.5408
+Targeting EM iteration 14
+Targeting M-step design matrix time (sec): 0.3663
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001789
+  Observed log–likelihood: -69.4347
+Targeting EM iteration 15
+Targeting M-step design matrix time (sec): 0.4932
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002291
+  Observed log–likelihood: -69.1876
+Targeting EM iteration 16
+Targeting M-step design matrix time (sec): 0.5454
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.006602
+  Observed log–likelihood: -69.0241
+Targeting EM iteration 17
+Targeting M-step design matrix time (sec): 0.2712
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002815
+  Observed log–likelihood: -69.0980
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 60
+  Lambda = 5: Mean validation log–prob = -56.3094
+  Lambda = 10: Mean validation log–prob = -47.7267
+  Lambda = 15: Mean validation log–prob = -41.8152
+  Lambda = 20: Mean validation log–prob = -38.6225
+  Lambda = 25: Mean validation log–prob = -36.9686
+  Lambda = 40: Mean validation log–prob = -36.8981
+  Lambda = 60: Mean validation log–prob = -36.8554
+WARNING - large complementary slackness residual: 0.001775
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+WARNING - large complementary slackness residual: 0.004859
+  Observed log–likelihood: -69.3668
+EM iteration 2
+WARNING - large complementary slackness residual: 0.004725
+  Observed log–likelihood: -64.6675
+EM iteration 3
+WARNING - large complementary slackness residual: 0.004416
+  Observed log–likelihood: -62.8568
+EM iteration 4
+WARNING - large complementary slackness residual: 0.003620
+  Observed log–likelihood: -62.0430
+EM iteration 5
+WARNING - large complementary slackness residual: 0.003648
+  Observed log–likelihood: -61.4732
+EM iteration 6
+WARNING - large complementary slackness residual: 0.003542
+  Observed log–likelihood: -61.3331
+EM iteration 7
+WARNING - large complementary slackness residual: 0.004574
+  Observed log–likelihood: -60.8510
+EM iteration 8
+WARNING - large complementary slackness residual: 0.004510
+  Observed log–likelihood: -60.6488
+EM iteration 9
+WARNING - large complementary slackness residual: 0.003508
+  Observed log–likelihood: -60.3973
+EM iteration 10
+WARNING - large complementary slackness residual: 0.004668
+  Observed log–likelihood: -60.3135
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [-69.36684846630445, -64.6674729557037, -62.85680906133997, -62.0429841104409, -61.47315615265529, -61.33306494075963, -60.85104273347571, -60.64879691797727, -60.397253317861455, -60.313485698475006]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.5012
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -48.7767
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.2146
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -45.1278
+Targeting EM iteration 3
+Targeting M-step design matrix time (sec): 0.2523
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -42.2550
+Targeting EM iteration 4
+Targeting M-step design matrix time (sec): 0.2897
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002309
+  Observed log–likelihood: -40.5651
+Targeting EM iteration 5
+Targeting M-step design matrix time (sec): 0.4484
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002872
+  Observed log–likelihood: -40.0989
+Targeting EM iteration 6
+Targeting M-step design matrix time (sec): 0.3419
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -39.1591
+Targeting EM iteration 7
+Targeting M-step design matrix time (sec): 0.3648
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.003482
+  Observed log–likelihood: -38.4946
+Targeting EM iteration 8
+Targeting M-step design matrix time (sec): 0.6009
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.003795
+  Observed log–likelihood: -38.0221
+Targeting EM iteration 9
+Targeting M-step design matrix time (sec): 0.4796
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002307
+  Observed log–likelihood: -37.8120
+Targeting EM iteration 10
+Targeting M-step design matrix time (sec): 0.2159
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002404
+  Observed log–likelihood: -37.1770
+Targeting EM iteration 11
+Targeting M-step design matrix time (sec): 0.6901
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002611
+  Observed log–likelihood: -36.9724
+Targeting EM iteration 12
+Targeting M-step design matrix time (sec): 0.5276
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.003664
+  Observed log–likelihood: -36.6843
+Targeting EM iteration 13
+Targeting M-step design matrix time (sec): 0.3757
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.006636
+  Observed log–likelihood: -36.5981
+Convergence achieved in targeting EM.
+Intermediate results saved after 10 rounds.
+Running initial CV to select lambda...
+Best lambda from CV: 20
+  Lambda = 5: Mean validation log–prob = -64.3950
+  Lambda = 10: Mean validation log–prob = -55.7298
+  Lambda = 15: Mean validation log–prob = -52.6716
+  Lambda = 20: Mean validation log–prob = -50.8127
+  Lambda = 25: Mean validation log–prob = -51.8673
+  Lambda = 40: Mean validation log–prob = -52.4112
+  Lambda = 60: Mean validation log–prob = -52.8862
+WARNING - large complementary slackness residual: 0.002564
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+WARNING - large complementary slackness residual: 0.002563
+  Observed log–likelihood: -118.5812
+EM iteration 2
+  Observed log–likelihood: -115.0315
+EM iteration 3
+  Observed log–likelihood: -113.7401
+EM iteration 4
+WARNING - large complementary slackness residual: 0.002387
+  Observed log–likelihood: -113.1196
+EM iteration 5
+WARNING - large complementary slackness residual: 0.002420
+  Observed log–likelihood: -112.7471
+EM iteration 6
+  Observed log–likelihood: -112.7045
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [-118.58116429180478, -115.03152370065015, -113.74008534134629, -113.11958879533695, -112.74710264853903, -112.70446300867384]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.4027
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001365
+  Observed log–likelihood: -99.0073
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.3985
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -94.3655
+Targeting EM iteration 3
+Targeting M-step design matrix time (sec): 0.3252
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001363
+  Observed log–likelihood: -92.4195
+Targeting EM iteration 4
+Targeting M-step design matrix time (sec): 0.2746
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001414
+  Observed log–likelihood: -91.1828
+Targeting EM iteration 5
+Targeting M-step design matrix time (sec): 0.5188
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002787
+  Observed log–likelihood: -90.0242
+Targeting EM iteration 6
+Targeting M-step design matrix time (sec): 0.3514
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002530
+  Observed log–likelihood: -89.0888
+Targeting EM iteration 7
+Targeting M-step design matrix time (sec): 0.3540
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002952
+  Observed log–likelihood: -88.5187
+Targeting EM iteration 8
+Targeting M-step design matrix time (sec): 0.3797
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.004478
+  Observed log–likelihood: -88.0253
+Targeting EM iteration 9
+Targeting M-step design matrix time (sec): 0.4248
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002276
+  Observed log–likelihood: -87.2883
+Targeting EM iteration 10
+Targeting M-step design matrix time (sec): 0.6269
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001296
+  Observed log–likelihood: -87.1957
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 25
+  Lambda = 5: Mean validation log–prob = -65.6326
+  Lambda = 10: Mean validation log–prob = -58.7226
+  Lambda = 15: Mean validation log–prob = -54.6235
+  Lambda = 20: Mean validation log–prob = -52.8088
+  Lambda = 25: Mean validation log–prob = -52.5815
+  Lambda = 40: Mean validation log–prob = -52.5957
+  Lambda = 60: Mean validation log–prob = -53.3185
+WARNING - large complementary slackness residual: 0.001830
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+WARNING - large complementary slackness residual: 0.001632
+  Observed log–likelihood: -124.2179
+EM iteration 2
+WARNING - large complementary slackness residual: 0.001629
+  Observed log–likelihood: -122.5881
+EM iteration 3
+WARNING - large complementary slackness residual: 0.001634
+  Observed log–likelihood: -121.8814
+EM iteration 4
+  Observed log–likelihood: -121.6814
+EM iteration 5
+WARNING - large complementary slackness residual: 0.001620
+  Observed log–likelihood: -121.7038
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [-124.21794749747258, -122.58812996760965, -121.88136273399041, -121.68144034576486, -121.70379468358409]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.3300
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -104.5955
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.2377
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001384
+  Observed log–likelihood: -98.4729
+Targeting EM iteration 3
+Targeting M-step design matrix time (sec): 0.4639
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -96.1868
+Targeting EM iteration 4
+Targeting M-step design matrix time (sec): 0.3962
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -94.1016
+Targeting EM iteration 5
+Targeting M-step design matrix time (sec): 0.4090
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002926
+  Observed log–likelihood: -92.7772
+Targeting EM iteration 6
+Targeting M-step design matrix time (sec): 0.2223
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.003516
+  Observed log–likelihood: -92.1936
+Targeting EM iteration 7
+Targeting M-step design matrix time (sec): 0.2481
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001697
+  Observed log–likelihood: -91.8454
+Targeting EM iteration 8
+Targeting M-step design matrix time (sec): 0.4672
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001418
+  Observed log–likelihood: -91.7107
+Targeting EM iteration 9
+Targeting M-step design matrix time (sec): 0.2836
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001382
+  Observed log–likelihood: -91.5256
+Targeting EM iteration 10
+Targeting M-step design matrix time (sec): 0.3699
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001469
+  Observed log–likelihood: -91.2448
+Targeting EM iteration 11
+Targeting M-step design matrix time (sec): 0.3975
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001655
+  Observed log–likelihood: -91.0535
+Targeting EM iteration 12
+Targeting M-step design matrix time (sec): 0.6643
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001393
+  Observed log–likelihood: -90.9346
+Targeting EM iteration 13
+Targeting M-step design matrix time (sec): 0.3983
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -90.8146
+Targeting EM iteration 14
+Targeting M-step design matrix time (sec): 0.4959
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -90.7134
+Targeting EM iteration 15
+Targeting M-step design matrix time (sec): 0.3574
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001681
+  Observed log–likelihood: -90.7098
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 20
+  Lambda = 5: Mean validation log–prob = -63.0468
+  Lambda = 10: Mean validation log–prob = -56.3046
+  Lambda = 15: Mean validation log–prob = -52.1367
+  Lambda = 20: Mean validation log–prob = -50.4843
+  Lambda = 25: Mean validation log–prob = -50.7793
+  Lambda = 40: Mean validation log–prob = -52.5214
+  Lambda = 60: Mean validation log–prob = -52.2030
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+  Observed log–likelihood: -121.2836
+EM iteration 2
+WARNING - large complementary slackness residual: 0.002061
+  Observed log–likelihood: -118.4850
+EM iteration 3
+WARNING - large complementary slackness residual: 0.002022
+  Observed log–likelihood: -117.0874
+EM iteration 4
+  Observed log–likelihood: -116.4160
+EM iteration 5
+WARNING - large complementary slackness residual: 0.001917
+  Observed log–likelihood: -116.2733
+EM iteration 6
+WARNING - large complementary slackness residual: 0.001987
+  Observed log–likelihood: -116.1395
+EM iteration 7
+WARNING - large complementary slackness residual: 0.001945
+  Observed log–likelihood: -116.0815
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [-121.28357539812288, -118.48497331531468, -117.08737280956416, -116.41595827739063, -116.27330826490135, -116.13946712706354, -116.08147893371611]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.3791
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001301
+  Observed log–likelihood: -101.5138
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.5351
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001299
+  Observed log–likelihood: -96.4144
+Targeting EM iteration 3
+Targeting M-step design matrix time (sec): 0.3490
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001291
+  Observed log–likelihood: -93.6433
+Targeting EM iteration 4
+Targeting M-step design matrix time (sec): 0.2912
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001295
+  Observed log–likelihood: -92.1211
+Targeting EM iteration 5
+Targeting M-step design matrix time (sec): 0.5480
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -90.9911
+Targeting EM iteration 6
+Targeting M-step design matrix time (sec): 0.2900
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001430
+  Observed log–likelihood: -90.4411
+Targeting EM iteration 7
+Targeting M-step design matrix time (sec): 0.5965
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001747
+  Observed log–likelihood: -89.4741
+Targeting EM iteration 8
+Targeting M-step design matrix time (sec): 0.5276
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002316
+  Observed log–likelihood: -89.0575
+Targeting EM iteration 9
+Targeting M-step design matrix time (sec): 0.3667
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001947
+  Observed log–likelihood: -88.7385
+Targeting EM iteration 10
+Targeting M-step design matrix time (sec): 0.3696
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001697
+  Observed log–likelihood: -88.2472
+Targeting EM iteration 11
+Targeting M-step design matrix time (sec): 0.2117
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001977
+  Observed log–likelihood: -87.9694
+Targeting EM iteration 12
+Targeting M-step design matrix time (sec): 0.2728
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002002
+  Observed log–likelihood: -87.8255
+Targeting EM iteration 13
+Targeting M-step design matrix time (sec): 0.3546
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002008
+  Observed log–likelihood: -87.7668
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 20
+  Lambda = 5: Mean validation log–prob = -59.0264
+  Lambda = 10: Mean validation log–prob = -50.3076
+  Lambda = 15: Mean validation log–prob = -43.0654
+  Lambda = 20: Mean validation log–prob = -40.4975
+  Lambda = 25: Mean validation log–prob = -43.1033
+  Lambda = 40: Mean validation log–prob = -41.8976
+  Lambda = 60: Mean validation log–prob = -41.3305
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+  Observed log–likelihood: -86.1464
+EM iteration 2
+  Observed log–likelihood: -82.4401
+EM iteration 3
+  Observed log–likelihood: -80.9261
+EM iteration 4
+  Observed log–likelihood: -80.4012
+EM iteration 5
+  Observed log–likelihood: -80.2577
+EM iteration 6
+  Observed log–likelihood: -80.1412
+EM iteration 7
+  Observed log–likelihood: -80.1386
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [-86.14637637126646, -82.44006692160632, -80.92607488198564, -80.40116838108517, -80.25773879601026, -80.14121318031262, -80.13862259946225]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.2833
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -67.5445
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.3701
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -61.7553
+Targeting EM iteration 3
+Targeting M-step design matrix time (sec): 0.4139
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001293
+  Observed log–likelihood: -58.3600
+Targeting EM iteration 4
+Targeting M-step design matrix time (sec): 0.2450
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -56.8163
+Targeting EM iteration 5
+Targeting M-step design matrix time (sec): 0.2875
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001439
+  Observed log–likelihood: -55.3936
+Targeting EM iteration 6
+Targeting M-step design matrix time (sec): 0.2681
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -54.4900
+Targeting EM iteration 7
+Targeting M-step design matrix time (sec): 0.2391
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002234
+  Observed log–likelihood: -53.6271
+Targeting EM iteration 8
+Targeting M-step design matrix time (sec): 0.2190
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001802
+  Observed log–likelihood: -53.0981
+Targeting EM iteration 9
+Targeting M-step design matrix time (sec): 0.2168
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001552
+  Observed log–likelihood: -53.0444
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 60
+  Lambda = 5: Mean validation log–prob = -64.4691
+  Lambda = 10: Mean validation log–prob = -57.3676
+  Lambda = 15: Mean validation log–prob = -50.5915
+  Lambda = 20: Mean validation log–prob = -51.8784
+  Lambda = 25: Mean validation log–prob = -49.9325
+  Lambda = 40: Mean validation log–prob = -51.1564
+  Lambda = 60: Mean validation log–prob = -48.8608
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+  Observed log–likelihood: -110.6490
+EM iteration 2
+  Observed log–likelihood: -108.0637
+EM iteration 3
+  Observed log–likelihood: -106.6238
+EM iteration 4
+  Observed log–likelihood: -105.9961
+EM iteration 5
+  Observed log–likelihood: -105.4878
+EM iteration 6
+  Observed log–likelihood: -105.3335
+EM iteration 7
+  Observed log–likelihood: -105.1044
+EM iteration 8
+  Observed log–likelihood: -104.9762
+EM iteration 9
+  Observed log–likelihood: -104.9200
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [-110.64896256724127, -108.06366563574538, -106.62379450641714, -105.99607319331822, -105.48779766343984, -105.33346492370354, -105.10436401646369, -104.97617605088426, -104.91996768791896]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.4612
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -93.0357
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.2404
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -88.1296
+Targeting EM iteration 3
+Targeting M-step design matrix time (sec): 0.2740
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -85.6228
+Targeting EM iteration 4
+Targeting M-step design matrix time (sec): 0.7815
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -84.1892
+Targeting EM iteration 5
+Targeting M-step design matrix time (sec): 0.6080
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -83.2712
+Targeting EM iteration 6
+Targeting M-step design matrix time (sec): 0.4273
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002928
+  Observed log–likelihood: -82.7320
+Targeting EM iteration 7
+Targeting M-step design matrix time (sec): 0.3954
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001765
+  Observed log–likelihood: -82.2616
+Targeting EM iteration 8
+Targeting M-step design matrix time (sec): 0.2976
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001899
+  Observed log–likelihood: -81.5817
+Targeting EM iteration 9
+Targeting M-step design matrix time (sec): 0.3342
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002681
+  Observed log–likelihood: -81.1683
+Targeting EM iteration 10
+Targeting M-step design matrix time (sec): 0.1777
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002195
+  Observed log–likelihood: -80.6377
+Targeting EM iteration 11
+Targeting M-step design matrix time (sec): 0.2043
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001954
+  Observed log–likelihood: -80.2956
+Targeting EM iteration 12
+Targeting M-step design matrix time (sec): 0.3564
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.004777
+  Observed log–likelihood: -80.3757
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 40
+  Lambda = 5: Mean validation log–prob = -59.5374
+  Lambda = 10: Mean validation log–prob = -52.1950
+  Lambda = 15: Mean validation log–prob = -45.9628
+  Lambda = 20: Mean validation log–prob = -45.0314
+  Lambda = 25: Mean validation log–prob = -46.3133
+  Lambda = 40: Mean validation log–prob = -41.5883
+  Lambda = 60: Mean validation log–prob = -43.0169
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+  Observed log–likelihood: -90.9035
+EM iteration 2
+  Observed log–likelihood: -84.3534
+EM iteration 3
+  Observed log–likelihood: -81.3877
+EM iteration 4
+  Observed log–likelihood: -80.3772
+EM iteration 5
+  Observed log–likelihood: -79.5290
+EM iteration 6
+  Observed log–likelihood: -79.0062
+EM iteration 7
+  Observed log–likelihood: -78.7829
+EM iteration 8
+  Observed log–likelihood: -78.6166
+EM iteration 9
+WARNING - large complementary slackness residual: 0.002112
+  Observed log–likelihood: -78.4972
+EM iteration 10
+WARNING - large complementary slackness residual: 0.002191
+  Observed log–likelihood: -78.5427
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [-90.9034675421161, -84.353356409283, -81.38766959218825, -80.37719328792558, -79.52900773289002, -79.006209256882, -78.7829165333225, -78.6165829821385, -78.49720293019669, -78.54268696794128]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.3885
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001299
+  Observed log–likelihood: -60.8482
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.4663
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -54.6250
+Targeting EM iteration 3
+Targeting M-step design matrix time (sec): 0.4087
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001822
+  Observed log–likelihood: -51.4644
+Targeting EM iteration 4
+Targeting M-step design matrix time (sec): 0.4708
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002369
+  Observed log–likelihood: -49.3435
+Targeting EM iteration 5
+Targeting M-step design matrix time (sec): 0.5904
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.004620
+  Observed log–likelihood: -47.9706
+Targeting EM iteration 6
+Targeting M-step design matrix time (sec): 0.5500
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.003830
+  Observed log–likelihood: -46.9277
+Targeting EM iteration 7
+Targeting M-step design matrix time (sec): 0.2104
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackneIntermediate results saved after 20 rounds.
+Running initial CV to select lambda...
+Best lambda from CV: 25
+  Lambda = 5: Mean validation log–prob = -61.5384
+  Lambda = 10: Mean validation log–prob = -54.5598
+  Lambda = 15: Mean validation log–prob = -49.5243
+  Lambda = 20: Mean validation log–prob = -48.1925
+  Lambda = 25: Mean validation log–prob = -45.8407
+  Lambda = 40: Mean validation log–prob = -47.9921
+  Lambda = 60: Mean validation log–prob = -46.2396
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+  Observed log–likelihood: -107.0812
+EM iteration 2
+  Observed log–likelihood: -105.5869
+EM iteration 3
+  Observed log–likelihood: -105.0722
+EM iteration 4
+  Observed log–likelihood: -104.6600
+EM iteration 5
+  Observed log–likelihood: -104.6364
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [-107.08122155902261, -105.58685078061839, -105.07215124285516, -104.66000212129313, -104.63639408405622]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.4813
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -85.3498
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.2502
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -78.4924
+Targeting EM iteration 3
+Targeting M-step design matrix time (sec): 0.2210
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001492
+  Observed log–likelihood: -74.1539
+Targeting EM iteration 4
+Targeting M-step design matrix time (sec): 0.5161
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -71.5349
+Targeting EM iteration 5
+Targeting M-step design matrix time (sec): 0.2067
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002734
+  Observed log–likelihood: -70.2054
+Targeting EM iteration 6
+Targeting M-step design matrix time (sec): 0.3978
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002654
+  Observed log–likelihood: -69.4806
+Targeting EM iteration 7
+Targeting M-step design matrix time (sec): 0.3942
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -68.9002
+Targeting EM iteration 8
+Targeting M-step design matrix time (sec): 0.2236
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -68.4002
+Targeting EM iteration 9
+Targeting M-step design matrix time (sec): 0.2326
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -68.1549
+Targeting EM iteration 10
+Targeting M-step design matrix time (sec): 0.2944
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -68.0768
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+WARNING - large complementary slackness residual: 0.001696
+WARNING - large complementary slackness residual: 0.001806
+WARNING - large complementary slackness residual: 0.001835
+WARNING - large complementary slackness residual: 0.002036
+WARNING - large complementary slackness residual: 0.001928
+WARNING - large complementary slackness residual: 0.001857
+WARNING - large complementary slackness residual: 0.001907
+WARNING - large complementary slackness residual: 0.001825
+WARNING - large complementary slackness residual: 0.001913
+WARNING - large complementary slackness residual: 0.001693
+WARNING - large complementary slackness residual: 0.001721
+WARNING - large complementary slackness residual: 0.001659
+WARNING - large complementary slackness residual: 0.001637
+WARNING - large complementary slackness residual: 0.001699
+WARNING - large complementary slackness residual: 0.001521
+WARNING - large complementary slackness residual: 0.001717
+WARNING - large complementaIntermediate results saved after 30 rounds.
+Running initial CV to select lambda...
+Best lambda from CV: 20
+  Lambda = 5: Mean validation log–prob = -69.2584
+  Lambda = 10: Mean validation log–prob = -61.7990
+  Lambda = 15: Mean validation log–prob = -56.7731
+  Lambda = 20: Mean validation log–prob = -55.2967
+  Lambda = 25: Mean validation log–prob = -55.8520
+  Lambda = 40: Mean validation log–prob = -57.6873
+  Lambda = 60: Mean validation log–prob = -56.7842
+WARNING - large complementary slackness residual: 0.002587
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+WARNING - large complementary slackness residual: 0.002429
+  Observed log–likelihood: -135.5929
+EM iteration 2
+WARNING - large complementary slackness residual: 0.002667
+  Observed log–likelihood: -133.1763
+EM iteration 3
+WARNING - large complementary slackness residual: 0.002712
+  Observed log–likelihood: -132.3317
+EM iteration 4
+WARNING - large complementary slackness residual: 0.002306
+  Observed log–likelihood: -132.2586
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [-135.5928980572815, -133.17630532782184, -132.331720475023, -132.25863095536243]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.3915
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001824
+  Observed log–likelihood: -112.3951
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.3012
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001860
+  Observed log–likelihood: -106.7044
+Targeting EM iteration 3
+Targeting M-step design matrix time (sec): 0.3060
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001580
+  Observed log–likelihood: -103.5961
+Targeting EM iteration 4
+Targeting M-step design matrix time (sec): 0.4080
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002083
+  Observed log–likelihood: -102.0249
+Targeting EM iteration 5
+Targeting M-step design matrix time (sec): 0.3059
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002750
+  Observed log–likelihood: -101.2611
+Targeting EM iteration 6
+Targeting M-step design matrix time (sec): 0.4804
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002201
+  Observed log–likelihood: -100.7521
+Targeting EM iteration 7
+Targeting M-step design matrix time (sec): 0.2652
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -99.8122
+Targeting EM iteration 8
+Targeting M-step design matrix time (sec): 0.6750
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001969
+  Observed log–likelihood: -99.7628
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 20
+  Lambda = 5: Mean validation log–prob = -58.2089
+  Lambda = 10: Mean validation log–prob = -49.4388
+  Lambda = 15: Mean validation log–prob = -43.9398
+  Lambda = 20: Mean validation log–prob = -42.0592
+  Lambda = 25: Mean validation log–prob = -42.3221
+  Lambda = 40: Mean validation log–prob = -42.9574
+  Lambda = 60: Mean validation log–prob = -43.3387
+WARNING - large complementary slackness residual: 0.002042
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+  Observed log–likelihood: -95.3953
+EM iteration 2
+  Observed log–likelihood: -92.0023
+EM iteration 3
+WARNING - large complementary slackness residual: 0.002776
+  Observed log–likelihood: -90.8877
+EM iteration 4
+  Observed log–likelihood: -90.3299
+EM iteration 5
+WARNING - large complementary slackness residual: 0.002778
+  Observed log–likelihood: -90.2689
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [-95.39527011907097, -92.00226159408527, -90.88768659981082, -90.32986046201688, -90.26893480549326]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.4257
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001440
+  Observed log–likelihood: -72.4855
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.6151
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001803
+  Observed log–likelihood: -65.4051
+Targeting EM iteration 3
+Targeting M-step design matrix time (sec): 0.2648
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002948
+  Observed log–likelihood: -62.1260
+Targeting EM iteration 4
+Targeting M-step design matrix time (sec): 0.4539
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002022
+  Observed log–likelihood: -60.2088
+Targeting EM iteration 5
+Targeting M-step design matrix time (sec): 0.6276
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002338
+  Observed log–likelihood: -58.9110
+Targeting EM iteration 6
+Targeting M-step design matrix time (sec): 0.2471
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.001466
+  Observed log–likelihood: -57.9202
+Targeting EM iteration 7
+Targeting M-step design matrix time (sec): 0.4643
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002486
+  Observed log–likelihood: -57.3876
+Targeting EM iteration 8
+Targeting M-step design matrix time (sec): 0.2341
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+WARNING - large complementary slackness residual: 0.002015
+  Observed log–likelihood: -57.3934
+Convergence achieved in targeting EM.
+Running initial CV to select lambda...
+Best lambda from CV: 60
+  Lambda = 5: Mean validation log–prob = -62.6204
+  Lambda = 10: Mean validation log–prob = -54.5394
+  Lambda = 15: Mean validation log–prob = -49.0025
+  Lambda = 20: Mean validation log–prob = -47.9329
+  Lambda = 25: Mean validation log–prob = -48.0140
+  Lambda = 40: Mean validation log–prob = -48.7014
+  Lambda = 60: Mean validation log–prob = -46.3266
+
+Running full EM algorithm using the selected (pruned) model...
+EM iteration 1
+  Observed log–likelihood: -92.4885
+EM iteration 2
+  Observed log–likelihood: -89.9114
+EM iteration 3
+  Observed log–likelihood: -88.5862
+EM iteration 4
+  Observed log–likelihood: -88.0744
+EM iteration 5
+  Observed log–likelihood: -87.9812
+Convergence achieved.
+
+EM algorithm completed.
+Log–likelihood history: [-92.48849689047468, -89.91141590500813, -88.58617694841105, -88.07438465312212, -87.98119485481199]
+Targeting EM iteration 1
+Targeting M-step design matrix time (sec): 0.2319
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -71.3305
+Targeting EM iteration 2
+Targeting M-step design matrix time (sec): 0.3288
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -66.1791
+Targeting EM iteration 3
+Targeting M-step design matrix time (sec): 0.4264
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -63.3056
+Targeting EM iteration 4
+Targeting M-step design matrix time (sec): 0.3352
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -60.8821
+Targeting EM iteration 5
+Targeting M-step design matrix time (sec): 0.2975
+ECOS solver failed:  The solver ECOS is not installed. 
+Using SCS instead.
+  Observed log–likelihood: -59.9278
+Targeting EM iteratioIntermediate results saved after 40 rounds.
