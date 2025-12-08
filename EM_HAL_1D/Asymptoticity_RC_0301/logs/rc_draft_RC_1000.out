@@ -1,0 +1,2811 @@
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005681
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006276
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008060
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007532
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010938
+Initial Log-Likelihood: 338.6384063077284
+Iteration 1
+E-step sampling loop time: 0.9255 sec
+E-step time (sec): 1.1162
+M-step Design Matrix Calculation time (sec): 0.3022
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011562
+M-step CVXPY optimize time (sec): 3.6217
+M-step time (sec): 3.9449
+Total Log-Likelihood: 339.1825257425311
+Iteration 2
+E-step sampling loop time: 0.3889 sec
+E-step time (sec): 0.4562
+M-step Design Matrix Calculation time (sec): 0.0754
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012932
+M-step CVXPY optimize time (sec): 2.6831
+M-step time (sec): 2.9044
+Total Log-Likelihood: 339.1891094442197
+Convergence achieved at iteration 2
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007620
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009172
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007663
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008103
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007110
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008601
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009114
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008841
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009374
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009347
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008743
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009430
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008174
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008972
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008656
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008461
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008792
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007185
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011004
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007310
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.014651
+Initial Log-Likelihood: 401.608340916491
+Iteration 1
+E-step sampling loop time: 0.7086 sec
+E-step time (sec): 0.8185
+M-step Design Matrix Calculation time (sec): 0.1683
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008366
+M-step CVXPY optimize time (sec): 5.5688
+M-step time (sec): 5.7628
+Total Log-Likelihood: 402.3215200317273
+Iteration 2
+E-step sampling loop time: 0.5728 sec
+E-step time (sec): 0.7235
+M-step Design Matrix Calculation time (sec): 0.2536
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009861
+M-step CVXPY optimize time (sec): 5.2891
+M-step time (sec): 5.5568
+Total Log-Likelihood: 402.36821502333225
+Convergence achieved at iteration 2
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007559
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008404
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007663
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008024
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008892
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007130
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008764
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009052
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009473
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008402
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007662
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012665
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012395
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008603
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008563
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009657
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.016403
+Initial Log-Likelihood: 358.9682801619326
+Iteration 1
+E-step sampling loop time: 0.4074 sec
+E-step time (sec): 0.5441
+M-step Design Matrix Calculation time (sec): 0.2436
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.014395
+M-step CVXPY optimize time (sec): 3.4306
+M-step time (sec): 3.7451
+Total Log-Likelihood: 359.26001424044966
+Iteration 2
+E-step sampling loop time: 0.3930 sec
+E-step time (sec): 0.6380
+M-step Design Matrix Calculation time (sec): 0.0951
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.014798
+M-step CVXPY optimize time (sec): 4.3562
+M-step time (sec): 4.5290
+Total Log-Likelihood: 359.30065297384266
+Convergence achieved at iteration 2
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008708
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005400
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009125
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007230
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006195
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008446
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007795
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007505
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008694
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010051
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010152
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008391
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007007
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008561
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008991
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011683
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.013963
+Initial Log-Likelihood: 360.6108423416169
+Iteration 1
+E-step sampling loop time: 1.2121 sec
+E-step time (sec): 1.3777
+M-step Design Matrix Calculation time (sec): 0.3072
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010337
+M-step CVXPY optimize time (sec): 2.5399
+M-step time (sec): 2.8502
+Total Log-Likelihood: 362.3541450263614
+Iteration 2
+E-step sampling loop time: 0.6364 sec
+E-step time (sec): 0.7004
+M-step Design Matrix Calculation time (sec): 0.1335
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012517
+M-step CVXPY optimize time (sec): 3.8193
+M-step time (sec): 3.9875
+Total Log-Likelihood: 362.5326361012417
+Iteration 3
+E-step sampling loop time: 0.6178 sec
+E-step time (sec): 0.7685
+M-step Design Matrix Calculation time (sec): 0.0884
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012852
+M-step CVXPY optimize time (sec): 2.6064
+M-step time (sec): 2.7042
+Total Log-Likelihood: 362.54370165575233
+Convergence achieved at iteration 3
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005434
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005990
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006729
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007002
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008414
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007959
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008555
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007187
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010282
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009125
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008659
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007974
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007957
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011752
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009666
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010955
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011147
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011190
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011587
+Initial Log-Likelihood: 355.91211825805465
+Iteration 1
+E-step sampling loop time: 0.4225 sec
+E-step time (sec): 0.4872
+M-step Design Matrix Calculation time (sec): 0.1408
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 6.3076
+M-step time (sec): 6.4511
+Total Log-Likelihood: 356.55880160349864
+Iteration 2
+E-step sampling loop time: 0.6361 sec
+E-step time (sec): 0.7651
+M-step Design Matrix Calculation time (sec): 0.1643
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006851
+M-step CVXPY optimize time (sec): 5.4271
+M-step time (sec): 5.6133
+Total Log-Likelihood: 356.653880393692
+Iteration 3
+E-step sampling loop time: 0.9062 sec
+E-step time (sec): 1.0916
+M-step Design Matrix Calculation time (sec): 0.1297
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006740
+M-step CVXPY optimize time (sec): 2.7039
+M-step time (sec): 2.8398
+Total Log-Likelihood: 356.6651545083415
+Convergence achieved at iteration 3
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009887
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008691
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006884
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009646
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009019
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010123
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010296
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009047
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009766
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008769
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008322
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009374
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009274
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009379
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010475
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008188
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010364
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007785
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009060
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007530
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.014601
+Initial Log-Likelihood: 382.5029020004102
+Iteration 1
+E-step sampling loop time: 1.2543 sec
+E-step time (sec): 1.3884
+M-step Design Matrix Calculation time (sec): 0.2546
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011391
+M-step CVXPY optimize time (sec): 2.7948
+M-step time (sec): 3.0958
+Total Log-Likelihood: 384.9655391260164
+Iteration 2
+E-step sampling loop time: 0.4127 sec
+E-step time (sec): 0.7053
+M-step Design Matrix Calculation time (sec): 0.2557
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012273
+M-step CVXPY optimize time (sec): 3.2839
+M-step time (sec): 3.5544
+Total Log-Likelihood: 385.1749578261414
+Iteration 3
+E-step sampling loop time: 0.6695 sec
+E-step time (sec): 0.8230
+M-step Design Matrix Calculation time (sec): 0.1179
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012724
+M-step CVXPY optimize time (sec): 5.3438
+M-step time (sec): 5.4698
+Total Log-Likelihood: 385.1995663825903
+Convergence achieved at iteration 3
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007304
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005833
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008268
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005822
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007006
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009827
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006522
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006992
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009297
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008768
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009792
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009874
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009433
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008377
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.013434
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.015019
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009756
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.013206
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.013896
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012539
+Initial Log-Likelihood: 384.5018694839602
+Iteration 1
+E-step sampling loop time: 0.8240 sec
+E-step time (sec): 1.0469
+M-step Design Matrix Calculation time (sec): 0.3002
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012863
+M-step CVXPY optimize time (sec): 4.0834
+M-step time (sec): 4.3925
+Total Log-Likelihood: 385.9889320986526
+Iteration 2
+E-step sampling loop time: 0.8220 sec
+E-step time (sec): 0.9135
+M-step Design Matrix Calculation time (sec): 0.1130
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.015809
+M-step CVXPY optimize time (sec): 4.8521
+M-step time (sec): 4.9862
+Total Log-Likelihood: 386.1533763117586
+Iteration 3
+E-step sampling loop time: 0.5598 sec
+E-step time (sec): 0.6767
+M-step Design Matrix Calculation time (sec): 0.1429
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.015592
+M-step CVXPY optimize time (sec): 3.7869
+M-step time (sec): 3.9480
+Total Log-Likelihood: 386.17952966487815
+Convergence achieved at iteration 3
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007517
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005597
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007731
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008891
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005473
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011471
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007259
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010150
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+Initial Log-Likelihood: 315.0112658380965
+Iteration 1
+E-step sampling loop time: 0.8216 sec
+E-step time (sec): 0.9075
+M-step Design Matrix Calculation time (sec): 0.2560
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 2.2356
+M-step time (sec): 2.5296
+Total Log-Likelihood: 315.7266277377978
+Iteration 2
+E-step sampling loop time: 0.8054 sec
+E-step time (sec): 0.8915
+M-step Design Matrix Calculation time (sec): 0.1009
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 3.7105
+M-step time (sec): 3.8559
+Total Log-Likelihood: 315.8206850955836
+Iteration 3
+E-step sampling loop time: 0.5563 sec
+E-step time (sec): 0.8077
+M-step Design Matrix Calculation time (sec): 0.1353
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 3.5546
+M-step time (sec): 3.7080
+Total Log-Likelihood: 315.84002987495194
+Convergence achieved at iteration 3
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008835
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010322
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008353
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007409
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010082
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+Initial Log-Likelihood: 368.3001599110358
+Iteration 1
+E-step sampling loop time: 0.9917 sec
+E-step time (sec): 1.0746
+M-step Design Matrix Calculation time (sec): 0.1751
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008746
+M-step CVXPY optimize time (sec): 2.5173
+M-step time (sec): 2.7039
+Total Log-Likelihood: 369.2937629445064
+Iteration 2
+E-step sampling loop time: 0.9690 sec
+E-step time (sec): 1.3421
+M-step Design Matrix Calculation time (sec): 0.1124
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009622
+M-step CVXPY optimize time (sec): 3.6191
+M-step time (sec): 3.8140
+Total Log-Likelihood: 369.3515542205532
+Iteration 3
+E-step sampling loop time: 0.9638 sec
+E-step time (sec): 1.1318
+M-step Design Matrix Calculation time (sec): 0.0877
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010241
+M-step CVXPY optimize time (sec): 4.0739
+M-step time (sec): 4.1969
+Total Log-Likelihood: 369.3680034640953
+Convergence achieved at iteration 3
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007883
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007293
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008605
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008825
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007702
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009400
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009180
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009198
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009091
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008135
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009150
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008121
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008793
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009018
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010013
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007401
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008718
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008008
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006865
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006445
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012191
+Initial Log-Likelihood: 313.7908425258694
+Iteration 1
+E-step sampling loop time: 1.4204 sec
+E-step time (sec): 1.5668
+M-step Design Matrix Calculation time (sec): 0.1876
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011562
+M-step CVXPY optimize time (sec): 5.3204
+M-step time (sec): 5.5349
+Total Log-Likelihood: 315.4538176449142
+Iteration 2
+E-step sampling loop time: 0.5273 sec
+E-step time (sec): 0.6339
+M-step Design Matrix Calculation time (sec): 0.2547
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.014491
+M-step CVXPY optimize time (sec): 4.7441
+M-step time (sec): 5.0096
+Total Log-Likelihood: 315.63361419087164
+Iteration 3
+E-step sampling loop time: 0.7317 sec
+E-step time (sec): 0.8352
+M-step Design Matrix Calculation time (sec): 0.1006
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.013580
+M-step CVXPY optimize time (sec): 5.3542
+M-step time (sec): 5.5166
+Total Log-Likelihood: 315.70302003777067
+Iteration 4
+E-step sampling loop time: 1.2187 sec
+E-step time (sec): 1.5034
+M-step Design Matrix Calculation time (sec): 0.1161
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.013890
+M-step CVXPY optimize time (sec): 4.8922
+M-step time (sec): 5.0222
+Total Log-Likelihood: 315.7496878654887
+Convergence achieved at iteration 4
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008567
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007650
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008155
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008576
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006700
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006858
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007959
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008836
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008596
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008474
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006001
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008083
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009088
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009980
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008538
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011197
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009710
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006966
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.022034
+Initial Log-Likelihood: 370.91988608999804
+Iteration 1
+E-step sampling loop time: 0.4172 sec
+E-step time (sec): 0.5287
+M-step Design Matrix Calculation time (sec): 0.2186
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.013236
+M-step CVXPY optimize time (sec): 3.6627
+M-step time (sec): 3.8909
+Total Log-Likelihood: 372.3758277681037
+Iteration 2
+E-step sampling loop time: 0.6973 sec
+E-step time (sec): 0.7705
+M-step Design Matrix Calculation time (sec): 0.0740
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.013801
+M-step CVXPY optimize time (sec): 4.2132
+M-step time (sec): 4.3018
+Total Log-Likelihood: 372.6589218186409
+Iteration 3
+E-step sampling loop time: 0.5208 sec
+E-step time (sec): 0.6057
+M-step Design Matrix Calculation time (sec): 0.1107
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012115
+M-step CVXPY optimize time (sec): 3.8415
+M-step time (sec): 3.9617
+Total Log-Likelihood: 372.75715782811693
+Iteration 4
+E-step sampling loop time: 0.9967 sec
+E-step time (sec): 1.0604
+M-step Design Matrix Calculation time (sec): 0.1646
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011512
+M-step CVXPY optimize time (sec): 2.6772
+M-step time (sec): 2.8558
+Total Log-Likelihood: 372.7572650383029
+Convergence achieved at iteration 4
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007892
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009292
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008345
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005946
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009763
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009622
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008563
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009288
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010123
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005387
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009490
+Initial Log-Likelihood: 354.8773051863438
+Iteration 1
+E-step sampling loop time: 1.5299 sec
+E-step time (sec): 1.6173
+M-step Design Matrix Calculation time (sec): 0.1769
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 3.5486
+M-step time (sec): 3.7289
+Total Log-Likelihood: 355.31410835478584
+Iteration 2
+E-step sampling loop time: 1.1109 sec
+E-step time (sec): 1.1882
+M-step Design Matrix Calculation time (sec): 0.1018
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 3.1219
+M-step time (sec): 3.2362
+Total Log-Likelihood: 355.35625940148816
+Convergence achieved at iteration 2
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006119
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008647
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.013234
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.013199
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009041
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011791
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.013920
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.019552
+Initial Log-Likelihood: 378.6284365029974
+Iteration 1
+E-step sampling loop time: 0.6683 sec
+E-step time (sec): 0.7879
+M-step Design Matrix Calculation time (sec): 0.3039
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 10.0617
+M-step time (sec): 10.4914
+Total Log-Likelihood: 381.90745536239797
+Iteration 2
+E-step sampling loop time: 1.0945 sec
+E-step time (sec): 1.2787
+M-step Design Matrix Calculation time (sec): 0.1842
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 10.1673
+M-step time (sec): 10.3596
+Total Log-Likelihood: 382.2646028100189
+Iteration 3
+E-step sampling loop time: 0.5187 sec
+E-step time (sec): 0.6540
+M-step Design Matrix Calculation time (sec): 0.1057
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 8.0011
+M-step time (sec): 8.1259
+Total Log-Likelihood: 382.2881106520306
+Convergence achieved at iteration 3
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005627
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009026
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006262
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010395
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010032
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007926
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005720
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011395
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008036
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009679
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006431
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010501
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010807
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008005
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009765
+Initial Log-Likelihood: 345.214561700261
+Iteration 1
+E-step sampling loop time: 0.7703 sec
+E-step time (sec): 0.8906
+M-step Design Matrix Calculation time (sec): 0.2769
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008993
+M-step CVXPY optimize time (sec): 6.1542
+M-step time (sec): 6.4513
+Total Log-Likelihood: 345.9357510506886
+Iteration 2
+E-step sampling loop time: 0.3777 sec
+E-step time (sec): 0.5752
+M-step Design Matrix Calculation time (sec): 0.0832
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009998
+M-step CVXPY optimize time (sec): 6.1200
+M-step time (sec): 6.2145
+Total Log-Likelihood: 346.01053006995625
+Iteration 3
+E-step sampling loop time: 0.8137 sec
+E-step time (sec): 0.9592
+M-step Design Matrix Calculation time (sec): 0.1243
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008953
+M-step CVXPY optimize time (sec): 7.1872
+M-step time (sec): 7.3512
+Total Log-Likelihood: 346.0148982958979
+Convergence achieved at iteration 3
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005741
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007387
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009558
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008124
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006822
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008163
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006733
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012540
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011921
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.013375
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011008
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011355
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007394
+Initial Log-Likelihood: 358.83489927249383
+Iteration 1
+E-step sampling loop time: 0.7821 sec
+E-step time (sec): 0.8861
+M-step Design Matrix Calculation time (sec): 0.2308
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009483
+M-step CVXPY optimize time (sec): 4.5064
+M-step time (sec): 4.7507
+Total Log-Likelihood: 364.2325586259117
+Iteration 2
+E-step sampling loop time: 1.0370 sec
+E-step time (sec): 1.1913
+M-step Design Matrix Calculation time (sec): 0.0615
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010707
+M-step CVXPY optimize time (sec): 4.5216
+M-step time (sec): 4.6555
+Total Log-Likelihood: 364.9394784874798
+Iteration 3
+E-step sampling loop time: 0.8786 sec
+E-step time (sec): 1.0236
+M-step Design Matrix Calculation time (sec): 0.0772
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011811
+M-step CVXPY optimize time (sec): 2.1581
+M-step time (sec): 2.2616
+Total Log-Likelihood: 364.9702318634337
+Convergence achieved at iteration 3
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005897
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009173
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006369
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009072
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006927
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008331
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009615
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007569
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007517
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006881
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+Initial Log-Likelihood: 318.1754033200018
+Iteration 1
+E-step sampling loop time: 1.1575 sec
+E-step time (sec): 1.2254
+M-step Design Matrix Calculation time (sec): 0.2468
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009735
+M-step CVXPY optimize time (sec): 8.4019
+M-step time (sec): 8.6642
+Total Log-Likelihood: 319.21610380995514
+Iteration 2
+E-step sampling loop time: 0.6542 sec
+E-step time (sec): 0.8999
+M-step Design Matrix Calculation time (sec): 0.1799
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009187
+M-step CVXPY optimize time (sec): 7.5038
+M-step time (sec): 7.7702
+Total Log-Likelihood: 319.2710374829429
+Iteration 3
+E-step sampling loop time: 0.5911 sec
+E-step time (sec): 0.6519
+M-step Design Matrix Calculation time (sec): 0.1412
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009463
+M-step CVXPY optimize time (sec): 8.5928
+M-step time (sec): 8.7632
+Total Log-Likelihood: 319.29372692524635
+Convergence achieved at iteration 3
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007161
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009785
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006975
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005557
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010615
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008780
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008621
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008889
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009516
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008414
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009023
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008799
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007709
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009299
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010215
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.013008
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008842
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009907
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008675
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.014499
+Initial Log-Likelihood: 313.3292382333674
+Iteration 1
+E-step sampling loop time: 0.4509 sec
+E-step time (sec): 0.5469
+M-step Design Matrix Calculation time (sec): 0.3020
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012868
+M-step CVXPY optimize time (sec): 5.3127
+M-step time (sec): 5.6267
+Total Log-Likelihood: 313.82199335332166
+Iteration 2
+E-step sampling loop time: 0.5258 sec
+E-step time (sec): 0.6694
+M-step Design Matrix Calculation time (sec): 0.1975
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.014148
+M-step CVXPY optimize time (sec): 4.1713
+M-step time (sec): 4.3883
+Total Log-Likelihood: 313.85505524266654
+Convergence achieved at iteration 2
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008433
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006348
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007213
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005506
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007422
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010638
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007099
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007109
+Initial Log-Likelihood: 347.21121920500457
+Iteration 1
+E-step sampling loop time: 1.1970 sec
+E-step time (sec): 1.2622
+M-step Design Matrix Calculation time (sec): 0.1798
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.013048
+M-step CVXPY optimize time (sec): 4.5311
+M-step time (sec): 4.7218
+Total Log-Likelihood: 348.14986501208574
+Iteration 2
+E-step sampling loop time: 0.8195 sec
+E-step time (sec): 0.8908
+M-step Design Matrix Calculation time (sec): 0.1116
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.015501
+M-step CVXPY optimize time (sec): 5.0683
+M-step time (sec): 5.1995
+Total Log-Likelihood: 348.3007796894705
+Iteration 3
+E-step sampling loop time: 0.7735 sec
+E-step time (sec): 0.8648
+M-step Design Matrix Calculation time (sec): 0.2453
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.016185
+M-step CVXPY optimize time (sec): 5.7250
+M-step time (sec): 5.9807
+Total Log-Likelihood: 348.371311887734
+Iteration 4
+E-step sampling loop time: 0.3191 sec
+E-step time (sec): 0.4500
+M-step Design Matrix Calculation time (sec): 0.0611
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.015702
+M-step CVXPY optimize time (sec): 4.5543
+M-step time (sec): 4.6264
+Total Log-Likelihood: 348.4276907758066
+Iteration 5
+E-step sampling loop time: 0.8502 sec
+E-step time (sec): 0.9381
+M-step Design Matrix Calculation time (sec): 0.0792
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.017223
+M-step CVXPY optimize time (sec): 4.1492
+M-step time (sec): 4.2491
+Total Log-Likelihood: 348.4523175746688
+Convergence achieved at iteration 5
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006924
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005883
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008751
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005738
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007321
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+Initial Log-Likelihood: 331.9692234301658
+Iteration 1
+E-step sampling loop time: 0.7472 sec
+E-step time (sec): 0.9346
+M-step Design Matrix Calculation time (sec): 0.2729
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 6.2499
+M-step time (sec): 6.5485
+Total Log-Likelihood: 333.29634214827
+Iteration 2
+E-step sampling loop time: 0.4264 sec
+E-step time (sec): 0.5183
+M-step Design Matrix Calculation time (sec): 0.1252
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 3.1513
+M-step time (sec): 3.3099
+Total Log-Likelihood: 333.443854664619
+Iteration 3
+E-step sampling loop time: 0.5368 sec
+E-step time (sec): 0.6399
+M-step Design Matrix Calculation time (sec): 0.0866
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 3.9118
+M-step time (sec): 4.0148
+Total Log-Likelihood: 333.5585175157831
+Iteration 4
+E-step sampling loop time: 0.4707 sec
+E-step time (sec): 0.7812
+M-step Design Matrix Calculation time (sec): 0.0547
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 4.0609
+M-step time (sec): 4.1293
+Total Log-Likelihood: 333.6001523200051
+Convergence achieved at iteration 4
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009831
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008648
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006258
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007691
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008688
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009398
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007460
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008743
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009512
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009575
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009754
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008007
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008967
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009628
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009103
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006531
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010478
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012018
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011201
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.013447
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.014952
+Initial Log-Likelihood: 337.86082100051465
+Iteration 1
+E-step sampling loop time: 0.8542 sec
+E-step time (sec): 1.0592
+M-step Design Matrix Calculation time (sec): 0.2689
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010650
+M-step CVXPY optimize time (sec): 2.5500
+M-step time (sec): 2.8344
+Total Log-Likelihood: 339.577488686027
+Iteration 2
+E-step sampling loop time: 0.6591 sec
+E-step time (sec): 0.7493
+M-step Design Matrix Calculation time (sec): 0.1517
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010254
+M-step CVXPY optimize time (sec): 4.5521
+M-step time (sec): 4.7872
+Total Log-Likelihood: 339.7899983085679
+Iteration 3
+E-step sampling loop time: 0.9187 sec
+E-step time (sec): 1.0498
+M-step Design Matrix Calculation time (sec): 0.2836
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011027
+M-step CVXPY optimize time (sec): 4.6193
+M-step time (sec): 4.9160
+Total Log-Likelihood: 339.8602425370936
+Iteration 4
+E-step sampling loop time: 0.4638 sec
+E-step time (sec): 1.0224
+M-step Design Matrix Calculation time (sec): 0.1096
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010063
+M-step CVXPY optimize time (sec): 3.9606
+M-step time (sec): 4.0806
+Total Log-Likelihood: 339.92390416460563
+Iteration 5
+E-step sampling loop time: 0.6648 sec
+E-step time (sec): 0.7693
+M-step Design Matrix Calculation time (sec): 0.1081
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010445
+M-step CVXPY optimize time (sec): 3.0098
+M-step time (sec): 3.1297
+Total Log-Likelihood: 339.9528353806965
+Convergence achieved at iteration 5
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006757
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009530
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006082
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007460
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007892
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010404
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009732
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006219
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009209
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012868
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007978
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006534
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011565
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008106
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006322
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006288
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.021152
+Initial Log-Likelihood: 344.9321313058469
+Iteration 1
+E-step sampling loop time: 1.0727 sec
+E-step time (sec): 1.1446
+M-step Design Matrix Calculation time (sec): 0.3258
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009354
+M-step CVXPY optimize time (sec): 7.2675
+M-step time (sec): 7.6280
+Total Log-Likelihood: 345.95905134910817
+Iteration 2
+E-step sampling loop time: 0.6122 sec
+E-step time (sec): 0.6894
+M-step Design Matrix Calculation time (sec): 0.0550
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010092
+M-step CVXPY optimize time (sec): 2.9154
+M-step time (sec): 2.9871
+Total Log-Likelihood: 346.11653105555985
+Iteration 3
+E-step sampling loop time: 0.6162 sec
+E-step time (sec): 0.6956
+M-step Design Matrix Calculation time (sec): 0.0869
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009748
+M-step CVXPY optimize time (sec): 3.4978
+M-step time (sec): 3.5966
+Total Log-Likelihood: 346.211714291428
+Iteration 4
+E-step sampling loop time: 0.3852 sec
+E-step time (sec): 0.6262
+M-step Design Matrix Calculation time (sec): 0.1178
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010270
+M-step CVXPY optimize time (sec): 2.3657
+M-step time (sec): 2.4919
+Total Log-Likelihood: 346.18295476255184
+Convergence achieved at iteration 4
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006109
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008331
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009256
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009655
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006928
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008958
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010206
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008463
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010813
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008743
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008843
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009015
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010143
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008494
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009886
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010228
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009345
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008772
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012019
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009019
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011612
+Initial Log-Likelihood: 329.3381812913297
+Iteration 1
+E-step sampling loop time: 0.4454 sec
+E-step time (sec): 0.5216
+M-step Design Matrix Calculation time (sec): 0.2684
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009605
+M-step CVXPY optimize time (sec): 6.8125
+M-step time (sec): 7.1023
+Total Log-Likelihood: 330.8101928291466
+Iteration 2
+E-step sampling loop time: 0.6094 sec
+E-step time (sec): 0.7217
+M-step Design Matrix Calculation time (sec): 0.0636
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007491
+M-step CVXPY optimize time (sec): 6.3740
+M-step time (sec): 6.4544
+Total Log-Likelihood: 331.09873933732064
+Iteration 3
+E-step sampling loop time: 0.3923 sec
+E-step time (sec): 0.5160
+M-step Design Matrix Calculation time (sec): 0.0545
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006854
+M-step CVXPY optimize time (sec): 2.8336
+M-step time (sec): 2.9414
+Total Log-Likelihood: 331.19049668238426
+Iteration 4
+E-step sampling loop time: 0.9501 sec
+E-step time (sec): 1.0445
+M-step Design Matrix Calculation time (sec): 0.1091
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007403
+M-step CVXPY optimize time (sec): 2.9435
+M-step time (sec): 3.0664
+Total Log-Likelihood: 331.24271316936995
+Iteration 5
+E-step sampling loop time: 0.5046 sec
+E-step time (sec): 0.5977
+M-step Design Matrix Calculation time (sec): 0.0657
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007319
+M-step CVXPY optimize time (sec): 3.2245
+M-step time (sec): 3.2998
+Total Log-Likelihood: 331.2737670860363
+Convergence achieved at iteration 5
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005753
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008544
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008503
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007008
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008368
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008933
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006781
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005733
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009864
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009670
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007762
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007465
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010137
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011269
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011420
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010485
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012534
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010421
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.019534
+Initial Log-Likelihood: 364.3301117370006
+Iteration 1
+E-step sampling loop time: 0.6454 sec
+E-step time (sec): 0.8283
+M-step Design Matrix Calculation time (sec): 0.2714
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009190
+M-step CVXPY optimize time (sec): 6.8538
+M-step time (sec): 7.1343
+Total Log-Likelihood: 366.01097154334536
+Iteration 2
+E-step sampling loop time: 0.6907 sec
+E-step time (sec): 0.8907
+M-step Design Matrix Calculation time (sec): 0.0694
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007341
+M-step CVXPY optimize time (sec): 6.2924
+M-step time (sec): 6.4007
+Total Log-Likelihood: 366.22810289095196
+Iteration 3
+E-step sampling loop time: 0.4056 sec
+E-step time (sec): 0.5715
+M-step Design Matrix Calculation time (sec): 0.2644
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007346
+M-step CVXPY optimize time (sec): 5.4612
+M-step time (sec): 5.7369
+Total Log-Likelihood: 366.26358503069616
+Convergence achieved at iteration 3
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008176
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008391
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009791
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010314
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007758
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+Initial Log-Likelihood: 310.6000140054964
+Iteration 1
+E-step sampling loop time: 1.2623 sec
+E-step time (sec): 1.3387
+M-step Design Matrix Calculation time (sec): 0.1564
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 5.7707
+M-step time (sec): 5.9900
+Total Log-Likelihood: 311.2882220111084
+Iteration 2
+E-step sampling loop time: 0.7016 sec
+E-step time (sec): 0.8111
+M-step Design Matrix Calculation time (sec): 0.1151
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 3.9185
+M-step time (sec): 4.0663
+Total Log-Likelihood: 311.4764619971653
+Iteration 3
+E-step sampling loop time: 0.3989 sec
+E-step time (sec): 0.4568
+M-step Design Matrix Calculation time (sec): 0.0880
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 3.5411
+M-step time (sec): 3.6386
+Total Log-Likelihood: 311.5680151678498
+Iteration 4
+E-step sampling loop time: 0.6416 sec
+E-step time (sec): 0.6965
+M-step Design Matrix Calculation time (sec): 0.0488
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 0.8465
+M-step time (sec): 0.9049
+Total Log-Likelihood: 311.56845906327055
+Convergence achieved at iteration 4
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007461
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007249
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006284
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006151
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007145
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008565
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007480
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008443
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008221
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009575
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010115
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011231
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011367
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006785
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.016548
+Initial Log-Likelihood: 325.89502906921103
+Iteration 1
+E-step sampling loop time: 0.6380 sec
+E-step time (sec): 0.7337
+M-step Design Matrix Calculation time (sec): 0.1264
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012070
+M-step CVXPY optimize time (sec): 5.3812
+M-step time (sec): 5.5865
+Total Log-Likelihood: 326.64708973049846
+Iteration 2
+E-step sampling loop time: 0.5344 sec
+E-step time (sec): 0.6516
+M-step Design Matrix Calculation time (sec): 0.0752
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007858
+M-step CVXPY optimize time (sec): 7.0024
+M-step time (sec): 7.1043
+Total Log-Likelihood: 326.98365944619985
+Iteration 3
+E-step sampling loop time: 0.8215 sec
+E-step time (sec): 0.9136
+M-step Design Matrix Calculation time (sec): 0.0958
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007069
+M-step CVXPY optimize time (sec): 5.9820
+M-step time (sec): 6.0961
+Total Log-Likelihood: 327.11654752395145
+Iteration 4
+E-step sampling loop time: 0.9532 sec
+E-step time (sec): 1.0669
+M-step Design Matrix Calculation time (sec): 0.1397
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007175
+M-step CVXPY optimize time (sec): 6.4469
+M-step time (sec): 6.6146
+Total Log-Likelihood: 327.20231638321934
+Iteration 5
+E-step sampling loop time: 0.5449 sec
+E-step time (sec): 0.6412
+M-step Design Matrix Calculation time (sec): 0.0960
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007363
+M-step CVXPY optimize time (sec): 4.9939
+M-step time (sec): 5.0949
+Total Log-Likelihood: 327.2041368137829
+Convergence achieved at iteration 5
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007850
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006092
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005860
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007109
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007916
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008084
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006948
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009705
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009377
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011744
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009810
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009649
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008835
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012454
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012347
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011586
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.014125
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011521
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.022414
+Initial Log-Likelihood: 387.219871075623
+Iteration 1
+E-step sampling loop time: 1.3267 sec
+E-step time (sec): 1.5440
+M-step Design Matrix Calculation time (sec): 0.3476
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008830
+M-step CVXPY optimize time (sec): 6.9594
+M-step time (sec): 7.3318
+Total Log-Likelihood: 389.209699344693
+Iteration 2
+E-step sampling loop time: 0.4803 sec
+E-step time (sec): 0.5723
+M-step Design Matrix Calculation time (sec): 0.0578
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006833
+M-step CVXPY optimize time (sec): 6.7994
+M-step time (sec): 6.9242
+Total Log-Likelihood: 389.6151460537384
+Iteration 3
+E-step sampling loop time: 0.7059 sec
+E-step time (sec): 0.9090
+M-step Design Matrix Calculation time (sec): 0.0921
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006817
+M-step CVXPY optimize time (sec): 6.5865
+M-step time (sec): 6.6900
+Total Log-Likelihood: 389.77951646936435
+Iteration 4
+E-step sampling loop time: 0.5103 sec
+E-step time (sec): 0.5704
+M-step Design Matrix Calculation time (sec): 0.0688
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007330
+M-step CVXPY optimize time (sec): 6.3747
+M-step time (sec): 6.4535
+Total Log-Likelihood: 389.82915700558976
+Convergence achieved at iteration 4
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009340
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008860
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009913
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005959
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007992
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007148
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007202
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008047
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012162
+Initial Log-Likelihood: 380.05602689752243
+Iteration 1
+E-step sampling loop time: 0.5187 sec
+E-step time (sec): 0.5934
+M-step Design Matrix Calculation time (sec): 0.1861
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009839
+M-step CVXPY optimize time (sec): 5.8411
+M-step time (sec): 6.0801
+Total Log-Likelihood: 382.1985222597611
+Iteration 2
+E-step sampling loop time: 0.7992 sec
+E-step time (sec): 1.0821
+M-step Design Matrix Calculation time (sec): 0.0771
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009592
+M-step CVXPY optimize time (sec): 5.9024
+M-step time (sec): 6.0148
+Total Log-Likelihood: 382.5089930436643
+Iteration 3
+E-step sampling loop time: 0.4941 sec
+E-step time (sec): 0.6650
+M-step Design Matrix Calculation time (sec): 0.0824
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009599
+M-step CVXPY optimize time (sec): 4.8480
+M-step time (sec): 4.9349
+Total Log-Likelihood: 382.5392747591397
+Convergence achieved at iteration 3
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008038
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009142
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006152
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006842
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009212
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007059
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009784
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011725
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009512
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.015957
+Initial Log-Likelihood: 396.7755750377638
+Iteration 1
+E-step sampling loop time: 0.3898 sec
+E-step time (sec): 0.6372
+M-step Design Matrix Calculation time (sec): 0.2617
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 6.6787
+M-step time (sec): 6.9530
+Total Log-Likelihood: 398.97802497810756
+Iteration 2
+E-step sampling loop time: 0.4047 sec
+E-step time (sec): 0.4968
+M-step Design Matrix Calculation time (sec): 0.1661
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 5.6958
+M-step time (sec): 5.8713
+Total Log-Likelihood: 399.43552954468316
+Iteration 3
+E-step sampling loop time: 0.4355 sec
+E-step time (sec): 0.5396
+M-step Design Matrix Calculation time (sec): 0.1636
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 4.2466
+M-step time (sec): 4.4133
+Total Log-Likelihood: 399.51843152372123
+Iteration 4
+E-step sampling loop time: 0.4192 sec
+E-step time (sec): 0.4621
+M-step Design Matrix Calculation time (sec): 0.0729
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 3.6423
+M-step time (sec): 3.7264
+Total Log-Likelihood: 399.5291119428641
+Convergence achieved at iteration 4
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009538
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009196
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005767
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007922
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006859
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008196
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012621
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.016366
+Initial Log-Likelihood: 435.29035802543336
+Iteration 1
+E-step sampling loop time: 0.3740 sec
+E-step time (sec): 0.4885
+M-step Design Matrix Calculation time (sec): 0.2923
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011911
+M-step CVXPY optimize time (sec): 6.4206
+M-step time (sec): 6.7273
+Total Log-Likelihood: 435.9836709531417
+Iteration 2
+E-step sampling loop time: 0.7038 sec
+E-step time (sec): 0.8275
+M-step Design Matrix Calculation time (sec): 0.1762
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.013124
+M-step CVXPY optimize time (sec): 5.0326
+M-step time (sec): 5.2233
+Total Log-Likelihood: 436.1285796467447
+Iteration 3
+E-step sampling loop time: 0.4499 sec
+E-step time (sec): 0.5559
+M-step Design Matrix Calculation time (sec): 0.1047
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.015151
+M-step CVXPY optimize time (sec): 4.4339
+M-step time (sec): 4.5517
+Total Log-Likelihood: 436.212437364576
+Iteration 4
+E-step sampling loop time: 0.4059 sec
+E-step time (sec): 0.9509
+M-step Design Matrix Calculation time (sec): 0.0781
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011416
+M-step CVXPY optimize time (sec): 6.2268
+M-step time (sec): 6.3583
+Total Log-Likelihood: 436.30677012857603
+Iteration 5
+E-step sampling loop time: 0.2356 sec
+E-step time (sec): 0.2729
+M-step Design Matrix Calculation time (sec): 0.0528
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012095
+M-step CVXPY optimize time (sec): 4.3758
+M-step time (sec): 4.4361
+Total Log-Likelihood: 436.32845288423874
+Convergence achieved at iteration 5
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011490
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009104
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006605
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006506
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005686
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006376
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011148
+Initial Log-Likelihood: 353.1671481654955
+Iteration 1
+E-step sampling loop time: 1.4824 sec
+E-step time (sec): 1.5695
+M-step Design Matrix Calculation time (sec): 0.2163
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012232
+M-step CVXPY optimize time (sec): 5.2176
+M-step time (sec): 5.4646
+Total Log-Likelihood: 353.5222322306349
+Iteration 2
+E-step sampling loop time: 0.3756 sec
+E-step time (sec): 0.4864
+M-step Design Matrix Calculation time (sec): 0.0962
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.013386
+M-step CVXPY optimize time (sec): 5.5094
+M-step time (sec): 5.6244
+Total Log-Likelihood: 353.6015470190324
+Iteration 3
+E-step sampling loop time: 0.4911 sec
+E-step time (sec): 0.5757
+M-step Design Matrix Calculation time (sec): 0.0974
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012697
+M-step CVXPY optimize time (sec): 4.5144
+M-step time (sec): 4.6235
+Total Log-Likelihood: 353.66952408147233
+Iteration 4
+E-step sampling loop time: 0.4801 sec
+E-step time (sec): 0.5488
+M-step Design Matrix Calculation time (sec): 0.0588
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009557
+M-step CVXPY optimize time (sec): 3.8666
+M-step time (sec): 3.9319
+Total Log-Likelihood: 353.77809248331647
+Iteration 5
+E-step sampling loop time: 0.6379 sec
+E-step time (sec): 0.6903
+M-step Design Matrix Calculation time (sec): 0.0616
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006516
+M-step CVXPY optimize time (sec): 3.2237
+M-step time (sec): 3.2930
+Total Log-Likelihood: 353.80703684072245
+Convergence achieved at iteration 5
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007338
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007311
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005596
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008636
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007711
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007847
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008394
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009618
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012692
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007561
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007324
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.013107
+Initial Log-Likelihood: 356.2079582365934
+Iteration 1
+E-step sampling loop time: 0.6442 sec
+E-step time (sec): 0.7779
+M-step Design Matrix Calculation time (sec): 0.2598
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007650
+M-step CVXPY optimize time (sec): 4.2458
+M-step time (sec): 4.5587
+Total Log-Likelihood: 358.58186757206647
+Iteration 2
+E-step sampling loop time: 0.3176 sec
+E-step time (sec): 0.4635
+M-step Design Matrix Calculation time (sec): 0.1337
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 4.7449
+M-step time (sec): 4.8864
+Total Log-Likelihood: 359.0173795545236
+Iteration 3
+E-step sampling loop time: 0.3526 sec
+E-step time (sec): 0.4235
+M-step Design Matrix Calculation time (sec): 0.0863
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 3.5237
+M-step time (sec): 3.6117
+Total Log-Likelihood: 359.1227483351173
+Iteration 4
+E-step sampling loop time: 0.7062 sec
+E-step time (sec): 0.7568
+M-step Design Matrix Calculation time (sec): 0.0891
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005823
+M-step CVXPY optimize time (sec): 3.1161
+M-step time (sec): 3.2071
+Total Log-Likelihood: 359.1378720149076
+Convergence achieved at iteration 4
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006126
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006494
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009008
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006445
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006776
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008425
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008098
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008554
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009176
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007726
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007258
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008045
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008584
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008725
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010235
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007754
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007180
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010024
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010144
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010075
+Initial Log-Likelihood: 369.3476934091133
+Iteration 1
+E-step sampling loop time: 0.5474 sec
+E-step time (sec): 0.6421
+M-step Design Matrix Calculation time (sec): 0.2508
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010851
+M-step CVXPY optimize time (sec): 4.8923
+M-step time (sec): 5.1552
+Total Log-Likelihood: 374.71914225202005
+Iteration 2
+E-step sampling loop time: 0.7227 sec
+E-step time (sec): 0.8103
+M-step Design Matrix Calculation time (sec): 0.1711
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010102
+M-step CVXPY optimize time (sec): 4.8097
+M-step time (sec): 4.9899
+Total Log-Likelihood: 375.7700296725985
+Iteration 3
+E-step sampling loop time: 0.5209 sec
+E-step time (sec): 0.6296
+M-step Design Matrix Calculation time (sec): 0.1409
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011803
+M-step CVXPY optimize time (sec): 3.8817
+M-step time (sec): 4.0421
+Total Log-Likelihood: 376.0617234291203
+Iteration 4
+E-step sampling loop time: 0.5147 sec
+E-step time (sec): 0.8503
+M-step Design Matrix Calculation time (sec): 0.0798
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011219
+M-step CVXPY optimize time (sec): 3.5296
+M-step time (sec): 3.6254
+Total Log-Likelihood: 376.2089128482737
+Iteration 5
+E-step sampling loop time: 1.0054 sec
+E-step time (sec): 1.1458
+M-step Design Matrix Calculation time (sec): 0.0471
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 4.8216
+M-step time (sec): 4.8771
+Total Log-Likelihood: 376.6204449271517
+Iteration 6
+E-step sampling loop time: 0.3773 sec
+E-step time (sec): 0.4058
+M-step Design Matrix Calculation time (sec): 0.0342
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 3.6698
+M-step time (sec): 3.7078
+Total Log-Likelihood: 376.6658626618495
+Convergence achieved at iteration 6
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006632
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007391
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008039
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006252
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010956
+Initial Log-Likelihood: 353.6047967582233
+Iteration 1
+E-step sampling loop time: 0.5032 sec
+E-step time (sec): 0.6345
+M-step Design Matrix Calculation time (sec): 0.3028
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010665
+M-step CVXPY optimize time (sec): 3.3728
+M-step time (sec): 3.6890
+Total Log-Likelihood: 356.16268960172215
+Iteration 2
+E-step sampling loop time: 0.9955 sec
+E-step time (sec): 1.2137
+M-step Design Matrix Calculation time (sec): 0.1379
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009052
+M-step CVXPY optimize time (sec): 5.5027
+M-step time (sec): 5.6644
+Total Log-Likelihood: 356.91637925658006
+Iteration 3
+E-step sampling loop time: 0.8831 sec
+E-step time (sec): 1.0587
+M-step Design Matrix Calculation time (sec): 0.1506
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009571
+M-step CVXPY optimize time (sec): 2.0002
+M-step time (sec): 2.1804
+Total Log-Likelihood: 356.5018941115793
+Iteration 4
+E-step sampling loop time: 0.5427 sec
+E-step time (sec): 0.7870
+M-step Design Matrix Calculation time (sec): 0.0825
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009108
+M-step CVXPY optimize time (sec): 2.7053
+M-step time (sec): 2.7968
+Total Log-Likelihood: 356.6242804291844
+Iteration 5
+E-step sampling loop time: 0.4400 sec
+E-step time (sec): 0.5946
+M-step Design Matrix Calculation time (sec): 0.1031
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006260
+M-step CVXPY optimize time (sec): 5.3610
+M-step time (sec): 5.4687
+Total Log-Likelihood: 356.91592900080377
+Iteration 6
+E-step sampling loop time: 0.4152 sec
+E-step time (sec): 0.4763
+M-step Design Matrix Calculation time (sec): 0.0465
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010246
+M-step CVXPY optimize time (sec): 1.6204
+M-step time (sec): 1.6769
+Total Log-Likelihood: 356.6618373854011
+Iteration 7
+E-step sampling loop time: 0.3953 sec
+E-step time (sec): 0.4409
+M-step Design Matrix Calculation time (sec): 0.0802
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007177
+M-step CVXPY optimize time (sec): 2.3375
+M-step time (sec): 2.4272
+Total Log-Likelihood: 357.0032729568559
+Iteration 8
+E-step sampling loop time: 0.5849 sec
+E-step time (sec): 0.6481
+M-step Design Matrix Calculation time (sec): 0.0534
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011111
+M-step CVXPY optimize time (sec): 2.6260
+M-step time (sec): 2.6861
+Total Log-Likelihood: 357.0034864841545
+Convergence achieved at iteration 8
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008913
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006573
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009446
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006363
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+Initial Log-Likelihood: 350.49902516957195
+Iteration 1
+E-step sampling loop time: 0.3885 sec
+E-step time (sec): 0.4590
+M-step Design Matrix Calculation time (sec): 0.2617
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 7.7392
+M-step time (sec): 8.0144
+Total Log-Likelihood: 351.6702183323616
+Iteration 2
+E-step sampling loop time: 0.5835 sec
+E-step time (sec): 0.6616
+M-step Design Matrix Calculation time (sec): 0.0686
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 4.8066
+M-step time (sec): 4.8820
+Total Log-Likelihood: 351.93472999901354
+Iteration 3
+E-step sampling loop time: 0.4384 sec
+E-step time (sec): 0.4939
+M-step Design Matrix Calculation time (sec): 0.0719
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 4.6749
+M-step time (sec): 4.7484
+Total Log-Likelihood: 352.03316926722204
+Iteration 4
+E-step sampling loop time: 0.2768 sec
+E-step time (sec): 0.3129
+M-step Design Matrix Calculation time (sec): 0.0574
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 3.2544
+M-step time (sec): 3.3150
+Total Log-Likelihood: 352.073702431358
+Convergence achieved at iteration 4
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005672
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008258
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008004
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007289
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007564
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008421
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007762
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008949
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007420
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007669
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008353
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008106
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008834
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008040
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006415
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008007
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007401
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008577
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010807
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011595
+Initial Log-Likelihood: 316.5208683886286
+Iteration 1
+E-step sampling loop time: 1.5119 sec
+E-step time (sec): 1.6494
+M-step Design Matrix Calculation time (sec): 0.2754
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009934
+M-step CVXPY optimize time (sec): 6.4748
+M-step time (sec): 6.7724
+Total Log-Likelihood: 319.20704277928667
+Iteration 2
+E-step sampling loop time: 0.4815 sec
+E-step time (sec): 0.5701
+M-step Design Matrix Calculation time (sec): 0.1969
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011994
+M-step CVXPY optimize time (sec): 4.8615
+M-step time (sec): 5.0943
+Total Log-Likelihood: 319.7957631256871
+Iteration 3
+E-step sampling loop time: 0.5589 sec
+E-step time (sec): 0.6488
+M-step Design Matrix Calculation time (sec): 0.0981
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.014073
+M-step CVXPY optimize time (sec): 4.9034
+M-step time (sec): 5.0319
+Total Log-Likelihood: 319.9436010027929
+Iteration 4
+E-step sampling loop time: 0.8987 sec
+E-step time (sec): 0.9838
+M-step Design Matrix Calculation time (sec): 0.0427
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.014142
+M-step CVXPY optimize time (sec): 2.9166
+M-step time (sec): 2.9694
+Total Log-Likelihood: 320.01440820497385
+Iteration 5
+E-step sampling loop time: 0.3613 sec
+E-step time (sec): 0.4200
+M-step Design Matrix Calculation time (sec): 0.0982
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.014618
+M-step CVXPY optimize time (sec): 2.7224
+M-step time (sec): 2.8312
+Total Log-Likelihood: 320.06976650654593
+Iteration 6
+E-step sampling loop time: 0.3740 sec
+E-step time (sec): 0.4251
+M-step Design Matrix Calculation time (sec): 0.0474
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.014753
+M-step CVXPY optimize time (sec): 2.7107
+M-step time (sec): 2.7630
+Total Log-Likelihood: 320.1258235228984
+Iteration 7
+E-step sampling loop time: 0.2703 sec
+E-step time (sec): 0.3065
+M-step Design Matrix Calculation time (sec): 0.0299
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.014434
+M-step CVXPY optimize time (sec): 2.2035
+M-step time (sec): 2.2429
+Total Log-Likelihood: 320.14517843317003
+Convergence achieved at iteration 7
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007774
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007279
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008826
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007962
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009125
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007047
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007508
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007022
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008093
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006372
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007184
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008202
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008248
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008921
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011599
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008922
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010614
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006031
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012093
+Initial Log-Likelihood: 329.6826914434629
+Iteration 1
+E-step sampling loop time: 1.0059 sec
+E-step time (sec): 1.3052
+M-step Design Matrix Calculation time (sec): 0.2631
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005953
+M-step CVXPY optimize time (sec): 6.8159
+M-step time (sec): 7.0941
+Total Log-Likelihood: 331.6978704786436
+Iteration 2
+E-step sampling loop time: 0.7458 sec
+E-step time (sec): 0.9316
+M-step Design Matrix Calculation time (sec): 0.1364
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 4.9562
+M-step time (sec): 5.1065
+Total Log-Likelihood: 331.92319151529705
+Iteration 3
+E-step sampling loop time: 0.5867 sec
+E-step time (sec): 0.6510
+M-step Design Matrix Calculation time (sec): 0.0513
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 4.4888
+M-step time (sec): 4.5506
+Total Log-Likelihood: 332.03281079695296
+Iteration 4
+E-step sampling loop time: 0.2772 sec
+E-step time (sec): 0.4245
+M-step Design Matrix Calculation time (sec): 0.0516
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 3.9344
+M-step time (sec): 3.9947
+Total Log-Likelihood: 332.1375791529494
+Iteration 5
+E-step sampling loop time: 0.2884 sec
+E-step time (sec): 0.3165
+M-step Design Matrix Calculation time (sec): 0.0385
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 2.8521
+M-step time (sec): 2.8980
+Total Log-Likelihood: 332.23815171065456
+Iteration 6
+E-step sampling loop time: 0.2712 sec
+E-step time (sec): 0.3042
+M-step Design Matrix Calculation time (sec): 0.0287
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 2.1826
+M-step time (sec): 2.2150
+Total Log-Likelihood: 332.23337370001735
+Convergence achieved at iteration 6
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006648
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006925
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.009660
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008919
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005425
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.014521
+Initial Log-Likelihood: 359.1597428081891
+Iteration 1
+E-step sampling loop time: 0.4198 sec
+E-step time (sec): 0.5902
+M-step Design Matrix Calculation time (sec): 0.3445
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 10.4370
+M-step time (sec): 10.9341
+Total Log-Likelihood: 364.0613392198229
+Iteration 2
+E-step sampling loop time: 0.4119 sec
+E-step time (sec): 0.6376
+M-step Design Matrix Calculation time (sec): 0.1218
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 5.8887
+M-step time (sec): 6.0951
+Total Log-Likelihood: 364.8268527617994
+Iteration 3
+E-step sampling loop time: 0.5581 sec
+E-step time (sec): 0.6183
+M-step Design Matrix Calculation time (sec): 0.0496
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 5.2751
+M-step time (sec): 5.3713
+Total Log-Likelihood: 364.98601636496494
+Iteration 4
+E-step sampling loop time: 0.2427 sec
+E-step time (sec): 0.4663
+M-step Design Matrix Calculation time (sec): 0.0691
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 3.6459
+M-step time (sec): 3.7704
+Total Log-Likelihood: 365.0407053316286
+Iteration 5
+E-step sampling loop time: 0.2406 sec
+E-step time (sec): 0.2739
+M-step Design Matrix Calculation time (sec): 0.0304
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 2.2993
+M-step time (sec): 2.3925
+Total Log-Likelihood: 365.0474039040696
+Convergence achieved at iteration 5
+EM algorithm completed.
+Now to get the estimates and esimated se
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006898
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006340
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006880
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010578
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006956
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005596
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007956
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008316
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006487
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008098
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007457
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010159
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.006528
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+ECOS solver failed in IPCW_HAL_init, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.012531
+Initial Log-Likelihood: 361.50874368402356
+Iteration 1
+E-step sampling loop time: 0.8246 sec
+E-step time (sec): 0.9926
+M-step Design Matrix Calculation time (sec): 0.1999
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010356
+M-step CVXPY optimize time (sec): 4.8808
+M-step time (sec): 5.1060
+Total Log-Likelihood: 363.8748327237358
+Iteration 2
+E-step sampling loop time: 0.6287 sec
+E-step time (sec): 0.8226
+M-step Design Matrix Calculation time (sec): 0.0916
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.011175
+M-step CVXPY optimize time (sec): 3.3005
+M-step time (sec): 3.4015
+Total Log-Likelihood: 364.3470134743822
+Iteration 3
+E-step sampling loop time: 0.4353 sec
+E-step time (sec): 0.5348
+M-step Design Matrix Calculation time (sec): 0.0325
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010134
+M-step CVXPY optimize time (sec): 3.5553
+M-step time (sec): 3.5911
+Total Log-Likelihood: 364.54173246431
+Iteration 4
+E-step sampling loop time: 0.3411 sec
+E-step time (sec): 0.3828
+M-step Design Matrix Calculation time (sec): 0.0599
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.010568
+M-step CVXPY optimize time (sec): 2.3742
+M-step time (sec): 2.4441
+Total Log-Likelihood: 364.5920977872953
+Iteration 5
+E-step sampling loop time: 0.6319 sec
+E-step time (sec): 0.7080
+M-step Design Matrix Calculation time (sec): 0.0653
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.008314
+M-step CVXPY optimize time (sec): 4.7332
+M-step time (sec): 4.8019
+Total Log-Likelihood: 365.1393735467365
+Iteration 6
+E-step sampling loop time: 0.3165 sec
+E-step time (sec): 0.3466
+M-step Design Matrix Calculation time (sec): 0.0229
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007561
+M-step CVXPY optimize time (sec): 3.5091
+M-step time (sec): 3.5342
+Total Log-Likelihood: 365.29843396624403
+Iteration 7
+E-step sampling loop time: 0.2121 sec
+E-step time (sec): 0.2407
+M-step Design Matrix Calculation time (sec): 0.0478
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.007734
+M-step CVXPY optimize time (sec): 2.8818
+M-step time (sec): 2.9320
+Total Log-Likelihood: 365.4162966549655
+Iteration 8
+E-step sampling loop time: 0.1941 sec
+E-step time (sec): 0.2137
+M-step Design Matrix Calculation time (sec): 0.0146
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005720
+M-step CVXPY optimize time (sec): 1.6267
+M-step time (sec): 1.6430
+Total Log-Likelihood: 365.70163562131216
+Iteration 9
+E-step sampling loop time: 0.2621 sec
+E-step time (sec): 0.2822
+M-step Design Matrix Calculation time (sec): 0.0093
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+WARNING - large complementary slackness residual: 0.005612
+M-step CVXPY optimize time (sec): 1.5205
+M-step time (sec): 1.5315
+Total Log-Likelihood: 365.80792724193543
+Iteration 10
+E-step sampling loop time: 0.1991 sec
+E-step time (sec): 0.2189
+M-step Design Matrix Calculation time (sec): 0.0092
+ECOS solver failed in M_step, falling back to SCS: The solver ECOS is not installed.
+M-step CVXPY optimize time (sec): 1.5272
+M-step time (sec): 1.5381
+Total Log-Likelihood: 365.8322363574863
+Convergence achieved at iteration 10
+EM algorithm completed.
+Now to get the estimates and esimated se
+Saved CSV files and lambda frequency plot.
