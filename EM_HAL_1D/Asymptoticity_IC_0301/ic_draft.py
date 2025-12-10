@@ -916,7 +916,7 @@ init_density_df, final_density_df, init_survival_df, final_survival_df, \
 init_density_df_se, final_density_df_se, init_survival_df_se, final_survival_df_se, \
 best_lambda_df = run_multiple_experiments(n_experiments=n_experiments,
                                           n_samples=n_samples,
-                                          evaluation_points=np.linspace(0.02, 0.98, 20),
+                                          #evaluation_points=np.linspace(0.02, 0.98, 20),
                                           smoothness_order=smoothness_order,
                                           candidate_lambdas=candidate_lambdas,
                                           ridge=ridge)
